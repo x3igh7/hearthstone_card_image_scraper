@@ -887,7 +887,7 @@
     {
       "id": "CS2_034",
       "name": "Fireblast",
-      "image": .png,
+      "image": "677.png",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1734,7 +1734,7 @@
     {
       "id": "EX1_025t",
       "name": "Mechanical Dragonling",
-      "image": .png,
+      "image": "680.png",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1962,7 +1962,7 @@
     {
       "id": "GAME_006",
       "name": "NOOOOOOOOOOOO",
-      "image": .png,
+      "image": "687.png",
       "type": "Spell",
       "cost": 2,
       "text": "Somehow, the card you USED to have has been deleted.  Here, have this one instead!",
@@ -5152,7 +5152,7 @@
     {
       "id": "EX1_614t",
       "name": "Flame of Azzinoth",
-      "image": .png,
+      "image": "685.png",
       "type": "Minion",
       "cost": 1,
       "attack": 2,
@@ -5552,7 +5552,7 @@
     {
       "id": "EX1_534t",
       "name": "Hyena",
-      "image": .png,
+      "image": "689.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 2,
@@ -5947,7 +5947,7 @@
     {
       "id": "EX1_241",
       "name": "Lava Burst",
-      "image": .png,
+      "image": "679.png",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5992,7 +5992,7 @@
     {
       "id": "EX1_116",
       "name": "Leeroy Jenkins",
-      "image": .png,
+      "image": "674.png",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Legendary",
@@ -6051,7 +6051,7 @@
     {
       "id": "EX1_259",
       "name": "Lightning Storm",
-      "image": .png,
+      "image": "676.png",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -7306,7 +7306,7 @@
     {
       "id": "EX1_303",
       "name": "Shadowflame",
-      "image": .png,
+      "image": "673.png",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -8351,7 +8351,7 @@
     {
       "id": "ds1_whelptoken",
       "name": "Whelp",
-      "image": .png,
+      "image": "719.png",
       "type": "Minion",
       "faction": "Neutral",
       "cost": 1,
@@ -8362,7 +8362,7 @@
     {
       "id": "EX1_116t",
       "name": "Whelp",
-      "image": .png,
+      "image": "719.png",
       "type": "Minion",
       "cost": 1,
       "attack": 1,
@@ -8394,7 +8394,7 @@
     {
       "id": "EX1_033",
       "name": "Windfury Harpy",
-      "image": .png,
+      "image": "675.png",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -8781,21 +8781,21 @@
     {
       "id": "NAX1h_01",
       "name": "Anub'Rekhan",
-      "image": .png,
+      "image": "7819.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX1_01",
       "name": "Anub'Rekhan",
-      "image": .png,
+      "image": "7822.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "FP1_026",
       "name": "Anub'ar Ambusher",
-      "image": .png,
+      "image": "7728.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -8815,7 +8815,7 @@
     {
       "id": "FP1_020",
       "name": "Avenge",
-      "image": .png,
+      "image": "7729.png",
       "type": "Spell",
       "rarity": "Common",
       "cost": 1,
@@ -8833,21 +8833,21 @@
     {
       "id": "NAX9_01",
       "name": "Baron Rivendare",
-      "image": .png,
+      "image": "7876.png",
       "type": "Hero",
       "health": 7
     },
     {
       "id": "NAX9_01H",
       "name": "Baron Rivendare",
-      "image": .png,
+      "image": "7877.png",
       "type": "Hero",
       "health": 14
     },
     {
       "id": "FP1_031",
       "name": "Baron Rivendare",
-      "image": .png,
+      "image": "7740.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 4,
@@ -8867,7 +8867,7 @@
     {
       "id": "NAX15_04H",
       "name": "Chains",
-      "image": .png,
+      "image": "7817.png",
       "type": "Hero Power",
       "cost": 8,
       "text": "<b>Hero Power</b>\nTake control of a random enemy minion."
@@ -8875,7 +8875,7 @@
     {
       "id": "NAX15_04",
       "name": "Chains",
-      "image": .png,
+      "image": "7815.png",
       "type": "Hero Power",
       "cost": 8,
       "text": "<b>Hero Power</b>\nTake control of a random enemy minion until end of turn."
@@ -8890,7 +8890,7 @@
     {
       "id": "FP1_029",
       "name": "Dancing Swords",
-      "image": .png,
+      "image": "7736.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -8909,7 +8909,7 @@
     {
       "id": "FP1_023",
       "name": "Dark Cultist",
-      "image": .png,
+      "image": "7735.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -8936,7 +8936,7 @@
     {
       "id": "FP1_021",
       "name": "Death's Bite",
-      "image": .png,
+      "image": "7734.png",
       "type": "Weapon",
       "rarity": "Common",
       "cost": 4,
@@ -8956,7 +8956,7 @@
     {
       "id": "NAX6_03",
       "name": "Deathbloom",
-      "image": .png,
+      "image": "7854.png",
       "type": "Spell",
       "cost": 4,
       "text": "Deal $5 damage to a minion. Summon a Spore."
@@ -8964,7 +8964,7 @@
     {
       "id": "FP1_006",
       "name": "Deathcharger",
-      "image": .png,
+      "image": "7762.png",
       "type": "Minion",
       "cost": 1,
       "attack": 2,
@@ -8978,7 +8978,7 @@
     {
       "id": "FP1_009",
       "name": "Deathlord",
-      "image": .png,
+      "image": "7753.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -9005,7 +9005,7 @@
     {
       "id": "NAX12_02",
       "name": "Decimate",
-      "image": .png,
+      "image": "7786.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nChange the Health of all minions to 1."
@@ -9013,7 +9013,7 @@
     {
       "id": "NAX12_02H",
       "name": "Decimate",
-      "image": .png,
+      "image": "7788.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nChange the Health of enemy minions to 1."
@@ -9021,7 +9021,7 @@
     {
       "id": "FP1_018",
       "name": "Duplicate",
-      "image": .png,
+      "image": "7732.png",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -9039,7 +9039,7 @@
     {
       "id": "FP1_003",
       "name": "Echoing Ooze",
-      "image": .png,
+      "image": "7754.png",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 2,
@@ -9068,7 +9068,7 @@
     {
       "id": "NAX12_04",
       "name": "Enrage",
-      "image": .png,
+      "image": "7792.png",
       "type": "Spell",
       "cost": 3,
       "text": "Give your hero +6 Attack this turn."
@@ -9076,7 +9076,7 @@
     {
       "id": "NAX5_02H",
       "name": "Eruption",
-      "image": .png,
+      "image": "7847.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nDeal 3 damage to the left-most enemy minion."
@@ -9084,7 +9084,7 @@
     {
       "id": "NAX5_02",
       "name": "Eruption",
-      "image": .png,
+      "image": "7846.png",
       "type": "Hero Power",
       "cost": 1,
       "text": "<b>Hero Power</b>\nDeal 2 damage to the left-most enemy minion."
@@ -9099,7 +9099,7 @@
     {
       "id": "NAX11_03",
       "name": "Fallout Slime",
-      "image": .png,
+      "image": "7781.png",
       "type": "Minion",
       "cost": 1,
       "attack": 2,
@@ -9108,7 +9108,7 @@
     {
       "id": "NAX13_04H",
       "name": "Feugen",
-      "image": .png,
+      "image": "7800.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -9119,7 +9119,7 @@
     {
       "id": "FP1_015",
       "name": "Feugen",
-      "image": .png,
+      "image": "7745.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -9139,7 +9139,7 @@
     {
       "id": "NAX15_02",
       "name": "Frost Blast",
-      "image": .png,
+      "image": "7811.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nDeal 2 damage to the enemy hero and <b>Freeze</b> it.",
@@ -9150,7 +9150,7 @@
     {
       "id": "NAX15_02H",
       "name": "Frost Blast",
-      "image": .png,
+      "image": "7812.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nDeal 3 damage to the enemy hero and <b>Freeze</b> it.",
@@ -9161,7 +9161,7 @@
     {
       "id": "NAX14_02",
       "name": "Frost Breath",
-      "image": .png,
+      "image": "7804.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nDestroy all enemy minions that aren't <b>Frozen</b>."
@@ -9169,7 +9169,7 @@
     {
       "id": "NAX14_03",
       "name": "Frozen Champion",
-      "image": .png,
+      "image": "7805.png",
       "type": "Minion",
       "cost": 5,
       "attack": 2,
@@ -9189,63 +9189,63 @@
     {
       "id": "NAX12_01H",
       "name": "Gluth",
-      "image": .png,
+      "image": "7785.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX12_01",
       "name": "Gluth",
-      "image": .png,
+      "image": "7784.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "NAX8_01",
       "name": "Gothik the Harvester",
-      "image": .png,
+      "image": "7866.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "NAX8_01H",
       "name": "Gothik the Harvester",
-      "image": .png,
+      "image": "7867.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX2_01H",
       "name": "Grand Widow Faerlina",
-      "image": .png,
+      "image": "7827.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX2_01",
       "name": "Grand Widow Faerlina",
-      "image": .png,
+      "image": "7826.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "NAX11_01H",
       "name": "Grobbulus",
-      "image": .png,
+      "image": "7778.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX11_01",
       "name": "Grobbulus",
-      "image": .png,
+      "image": "7777.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "NAX15_03t",
       "name": "Guardian of Icecrown",
-      "image": .png,
+      "image": "7814.png",
       "type": "Minion",
       "cost": 4,
       "attack": 5,
@@ -9258,7 +9258,7 @@
     {
       "id": "NAX15_03n",
       "name": "Guardian of Icecrown",
-      "image": .png,
+      "image": "7813.png",
       "type": "Minion",
       "cost": 4,
       "attack": 3,
@@ -9271,7 +9271,7 @@
     {
       "id": "NAX8_02",
       "name": "Harvest",
-      "image": .png,
+      "image": "7868.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nDraw a card."
@@ -9279,7 +9279,7 @@
     {
       "id": "NAX8_02H",
       "name": "Harvest",
-      "image": .png,
+      "image": "7869.png",
       "type": "Hero Power",
       "cost": 1,
       "text": "<b>Hero Power</b>\nDraw a card. Gain a Mana Crystal."
@@ -9287,7 +9287,7 @@
     {
       "id": "NAX10_03H",
       "name": "Hateful Strike",
-      "image": .png,
+      "image": "7776.png",
       "type": "Hero Power",
       "cost": 4,
       "text": "<b>Hero Power</b>\nDestroy a minion."
@@ -9295,7 +9295,7 @@
     {
       "id": "NAX10_03",
       "name": "Hateful Strike",
-      "image": .png,
+      "image": "7776.png",
       "type": "Hero Power",
       "cost": 4,
       "text": "<b>Hero Power</b>\nDestroy a minion."
@@ -9303,7 +9303,7 @@
     {
       "id": "FP1_002",
       "name": "Haunted Creeper",
-      "image": .png,
+      "image": "7756.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -9323,7 +9323,7 @@
     {
       "id": "NAX5_01",
       "name": "Heigan the Unclean",
-      "image": .png,
+      "image": "7844.png",
       "type": "Hero",
       "health": 30,
       "playerClass": "Warlock"
@@ -9331,7 +9331,7 @@
     {
       "id": "NAX5_01H",
       "name": "Heigan the Unclean",
-      "image": .png,
+      "image": "7845.png",
       "type": "Hero",
       "health": 45,
       "playerClass": "Warlock"
@@ -9339,7 +9339,7 @@
     {
       "id": "NAX10_02",
       "name": "Hook",
-      "image": .png,
+      "image": "7773.png",
       "type": "Weapon",
       "cost": 3,
       "attack": 5,
@@ -9352,7 +9352,7 @@
     {
       "id": "NAX10_02H",
       "name": "Hook",
-      "image": .png,
+      "image": "7774.png",
       "type": "Weapon",
       "cost": 3,
       "attack": 4,
@@ -9366,14 +9366,14 @@
     {
       "id": "NAX7_01H",
       "name": "Instructor Razuvious",
-      "image": .png,
+      "image": "7859.png",
       "type": "Hero",
       "health": 55
     },
     {
       "id": "NAX7_01",
       "name": "Instructor Razuvious",
-      "image": .png,
+      "image": "7858.png",
       "type": "Hero",
       "health": 40
     },
@@ -9392,7 +9392,7 @@
     {
       "id": "NAX12_03",
       "name": "Jaws",
-      "image": .png,
+      "image": "7789.png",
       "type": "Weapon",
       "cost": 1,
       "attack": 1,
@@ -9402,7 +9402,7 @@
     {
       "id": "NAX12_03H",
       "name": "Jaws",
-      "image": .png,
+      "image": "7791.png",
       "type": "Weapon",
       "cost": 1,
       "attack": 3,
@@ -9412,21 +9412,21 @@
     {
       "id": "NAX15_01H",
       "name": "Kel'Thuzad",
-      "image": .png,
+      "image": "7809.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX15_01",
       "name": "Kel'Thuzad",
-      "image": .png,
+      "image": "7807.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "FP1_013",
       "name": "Kel'Thuzad",
-      "image": .png,
+      "image": "7742.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 8,
@@ -9443,7 +9443,7 @@
     {
       "id": "NAX9_02H",
       "name": "Lady Blaumeux",
-      "image": .png,
+      "image": "7879.png",
       "type": "Minion",
       "cost": 3,
       "attack": 2,
@@ -9454,7 +9454,7 @@
     {
       "id": "NAX9_02",
       "name": "Lady Blaumeux",
-      "image": .png,
+      "image": "7878.png",
       "type": "Minion",
       "cost": 3,
       "attack": 1,
@@ -9465,21 +9465,21 @@
     {
       "id": "NAX6_01H",
       "name": "Loatheb",
-      "image": .png,
+      "image": "7850.png",
       "type": "Hero",
       "health": 99
     },
     {
       "id": "NAX6_01",
       "name": "Loatheb",
-      "image": .png,
+      "image": "7849.png",
       "type": "Hero",
       "health": 75
     },
     {
       "id": "FP1_030",
       "name": "Loatheb",
-      "image": .png,
+      "image": "7746.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -9499,7 +9499,7 @@
     {
       "id": "NAX1_05",
       "name": "Locust Swarm",
-      "image": .png,
+      "image": "7825.png",
       "type": "Spell",
       "cost": 7,
       "text": "Deal $3 damage to all enemy minions. Restore #3 Health to your hero."
@@ -9507,7 +9507,7 @@
     {
       "id": "FP1_004",
       "name": "Mad Scientist",
-      "image": .png,
+      "image": "7748.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -9526,14 +9526,14 @@
     {
       "id": "NAX3_01H",
       "name": "Maexxna",
-      "image": .png,
+      "image": "7833.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "FP1_010",
       "name": "Maexxna",
-      "image": .png,
+      "image": "7747.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -9554,7 +9554,7 @@
     {
       "id": "NAX3_01",
       "name": "Maexxna",
-      "image": .png,
+      "image": "7832.png",
       "type": "Hero",
       "health": 30
     },
@@ -9568,7 +9568,7 @@
     {
       "id": "NAX9_07",
       "name": "Mark of the Horsemen",
-      "image": .png,
+      "image": "7887.png",
       "type": "Spell",
       "cost": 5,
       "text": "Give your minions and your weapon +1/+1."
@@ -9576,7 +9576,7 @@
     {
       "id": "NAX7_04H",
       "name": "Massive Runeblade",
-      "image": .png,
+      "image": "7864.png",
       "type": "Weapon",
       "cost": 3,
       "attack": 10,
@@ -9586,7 +9586,7 @@
     {
       "id": "NAX7_04",
       "name": "Massive Runeblade",
-      "image": .png,
+      "image": "7863.png",
       "type": "Weapon",
       "cost": 3,
       "attack": 5,
@@ -9596,7 +9596,7 @@
     {
       "id": "NAX7_05",
       "name": "Mind Control Crystal",
-      "image": .png,
+      "image": "7865.png",
       "type": "Spell",
       "cost": 1,
       "text": "Activate the Crystal to control the Understudies!"
@@ -9604,7 +9604,7 @@
     {
       "id": "NAX5_03",
       "name": "Mindpocalypse",
-      "image": .png,
+      "image": "7848.png",
       "type": "Spell",
       "cost": 2,
       "text": "Both players draw 2 cards and gain a Mana Crystal."
@@ -9612,7 +9612,7 @@
     {
       "id": "NAX15_05",
       "name": "Mr. Bigglesworth",
-      "image": .png,
+      "image": "7818.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 0,
@@ -9625,7 +9625,7 @@
     {
       "id": "NAX11_04",
       "name": "Mutating Injection",
-      "image": .png,
+      "image": "7782.png",
       "type": "Spell",
       "cost": 3,
       "text": "Give a minion +4/+4 and <b>Taunt</b>."
@@ -9640,7 +9640,7 @@
     {
       "id": "NAXM_001",
       "name": "Necroknight",
-      "image": .png,
+      "image": "7889.png",
       "type": "Minion",
       "cost": 4,
       "attack": 5,
@@ -9653,7 +9653,7 @@
     {
       "id": "NAX6_02",
       "name": "Necrotic Aura",
-      "image": .png,
+      "image": "7851.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nDeal 3 damage to the enemy hero."
@@ -9661,7 +9661,7 @@
     {
       "id": "NAX6_02H",
       "name": "Necrotic Aura",
-      "image": .png,
+      "image": "7853.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nDeal 3 damage to the enemy hero."
@@ -9676,7 +9676,7 @@
     {
       "id": "NAX3_03",
       "name": "Necrotic Poison",
-      "image": .png,
+      "image": "7836.png",
       "type": "Spell",
       "cost": 2,
       "text": "Destroy a minion."
@@ -9684,7 +9684,7 @@
     {
       "id": "FP1_017",
       "name": "Nerub'ar Weblord",
-      "image": .png,
+      "image": "7755.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -9703,7 +9703,7 @@
     {
       "id": "NAX1h_03",
       "name": "Nerubian",
-      "image": .png,
+      "image": "7820.png",
       "type": "Minion",
       "cost": 2,
       "attack": 4,
@@ -9712,7 +9712,7 @@
     {
       "id": "NAX1_03",
       "name": "Nerubian",
-      "image": .png,
+      "image": "7823.png",
       "type": "Minion",
       "cost": 2,
       "attack": 3,
@@ -9731,7 +9731,7 @@
     {
       "id": "FP1_007",
       "name": "Nerubian Egg",
-      "image": .png,
+      "image": "7738.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 2,
@@ -9750,7 +9750,7 @@
     {
       "id": "NAX4_01",
       "name": "Noth the Plaguebringer",
-      "image": .png,
+      "image": "7837.png",
       "type": "Hero",
       "health": 30,
       "playerClass": "Mage"
@@ -9758,7 +9758,7 @@
     {
       "id": "NAX4_01H",
       "name": "Noth the Plaguebringer",
-      "image": .png,
+      "image": "7838.png",
       "type": "Hero",
       "health": 45,
       "playerClass": "Mage"
@@ -9766,21 +9766,21 @@
     {
       "id": "NAX10_01",
       "name": "Patchwerk",
-      "image": .png,
+      "image": "7771.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "NAX10_01H",
       "name": "Patchwerk",
-      "image": .png,
+      "image": "7772.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX4_05",
       "name": "Plague",
-      "image": .png,
+      "image": "7843.png",
       "type": "Spell",
       "cost": 6,
       "text": "Destroy all non-Skeleton minions."
@@ -9788,7 +9788,7 @@
     {
       "id": "NAX11_02",
       "name": "Poison Cloud",
-      "image": .png,
+      "image": "7779.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nDeal 1 damage to all minions. If any die, summon a slime."
@@ -9796,7 +9796,7 @@
     {
       "id": "NAX11_02H",
       "name": "Poison Cloud",
-      "image": .png,
+      "image": "7780.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nDeal 2 damage to all enemies. If any die, summon a slime."
@@ -9804,7 +9804,7 @@
     {
       "id": "FP1_019",
       "name": "Poison Seeds",
-      "image": .png,
+      "image": "7726.png",
       "type": "Spell",
       "rarity": "Common",
       "cost": 4,
@@ -9826,7 +9826,7 @@
     {
       "id": "NAX13_02",
       "name": "Polarity Shift",
-      "image": .png,
+      "image": "7796.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nSwap the Attack and Health of all minions."
@@ -9842,7 +9842,7 @@
     {
       "id": "NAX14_04",
       "name": "Pure Cold",
-      "image": .png,
+      "image": "7806.png",
       "type": "Spell",
       "cost": 5,
       "text": "Deal $8 damage to the enemy hero, and <b>Freeze</b> it.",
@@ -9853,7 +9853,7 @@
     {
       "id": "NAX2_03",
       "name": "Rain of Fire",
-      "image": .png,
+      "image": "7828.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nFire a missile for each card in your opponent's hand.",
@@ -9864,7 +9864,7 @@
     {
       "id": "NAX2_03H",
       "name": "Rain of Fire",
-      "image": .png,
+      "image": "7829.png",
       "type": "Hero Power",
       "cost": 1,
       "text": "<b>Hero Power</b>\nFire a missile for each card in your opponent's hand.",
@@ -9875,7 +9875,7 @@
     {
       "id": "NAX4_04",
       "name": "Raise Dead",
-      "image": .png,
+      "image": "7841.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Passive Hero Power</b>\nWhenever an enemy dies, raise a 1/1 Skeleton."
@@ -9883,7 +9883,7 @@
     {
       "id": "NAX4_04H",
       "name": "Raise Dead",
-      "image": .png,
+      "image": "7842.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Passive Hero Power</b>\nWhenever an enemy dies, raise a 5/5 Skeleton."
@@ -9891,7 +9891,7 @@
     {
       "id": "FP1_025",
       "name": "Reincarnate",
-      "image": .png,
+      "image": "7731.png",
       "type": "Spell",
       "rarity": "Common",
       "cost": 2,
@@ -9906,7 +9906,7 @@
     {
       "id": "NAX9_05H",
       "name": "Runeblade",
-      "image": .png,
+      "image": "7885.png",
       "type": "Weapon",
       "cost": 3,
       "attack": 2,
@@ -9916,7 +9916,7 @@
     {
       "id": "NAX9_05",
       "name": "Runeblade",
-      "image": .png,
+      "image": "7884.png",
       "type": "Weapon",
       "cost": 3,
       "attack": 1,
@@ -9926,21 +9926,21 @@
     {
       "id": "NAX14_01H",
       "name": "Sapphiron",
-      "image": .png,
+      "image": "7803.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX14_01",
       "name": "Sapphiron",
-      "image": .png,
+      "image": "7802.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "FP1_005",
       "name": "Shade of Naxxramas",
-      "image": .png,
+      "image": "7730.png",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 3,
@@ -9959,7 +9959,7 @@
     {
       "id": "NAX9_04",
       "name": "Sir Zeliek",
-      "image": .png,
+      "image": "7882.png",
       "type": "Minion",
       "cost": 3,
       "attack": 1,
@@ -9970,7 +9970,7 @@
     {
       "id": "NAX9_04H",
       "name": "Sir Zeliek",
-      "image": .png,
+      "image": "7883.png",
       "type": "Minion",
       "cost": 3,
       "attack": 2,
@@ -9981,7 +9981,7 @@
     {
       "id": "NAXM_002",
       "name": "Skeletal Smith",
-      "image": .png,
+      "image": "7890.png",
       "type": "Minion",
       "cost": 3,
       "attack": 4,
@@ -9994,7 +9994,7 @@
     {
       "id": "NAX4_03H",
       "name": "Skeleton",
-      "image": .png,
+      "image": "7840.png",
       "type": "Minion",
       "cost": 5,
       "attack": 5,
@@ -10003,7 +10003,7 @@
     {
       "id": "NAX4_03",
       "name": "Skeleton",
-      "image": .png,
+      "image": "7839.png",
       "type": "Minion",
       "cost": 1,
       "attack": 1,
@@ -10012,7 +10012,7 @@
     {
       "id": "NAX1_04",
       "name": "Skitter",
-      "image": .png,
+      "image": "7824.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nSummon a 3/1 Nerubian."
@@ -10020,7 +10020,7 @@
     {
       "id": "NAX1h_04",
       "name": "Skitter",
-      "image": .png,
+      "image": "7821.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nSummon a 4/4 Nerubian."
@@ -10035,7 +10035,7 @@
     {
       "id": "FP1_012t",
       "name": "Slime",
-      "image": .png,
+      "image": "7764.png",
       "type": "Minion",
       "cost": 1,
       "attack": 1,
@@ -10048,7 +10048,7 @@
     {
       "id": "FP1_012",
       "name": "Sludge Belcher",
-      "image": .png,
+      "image": "7749.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 5,
@@ -10068,7 +10068,7 @@
     {
       "id": "FP1_008",
       "name": "Spectral Knight",
-      "image": .png,
+      "image": "7751.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 5,
@@ -10084,7 +10084,7 @@
     {
       "id": "NAX8_05t",
       "name": "Spectral Rider",
-      "image": .png,
+      "image": "7875.png",
       "type": "Minion",
       "cost": 5,
       "attack": 0,
@@ -10094,7 +10094,7 @@
     {
       "id": "FP1_002t",
       "name": "Spectral Spider",
-      "image": .png,
+      "image": "7760.png",
       "type": "Minion",
       "cost": 1,
       "attack": 1,
@@ -10103,7 +10103,7 @@
     {
       "id": "NAX8_03t",
       "name": "Spectral Trainee",
-      "image": .png,
+      "image": "7871.png",
       "type": "Minion",
       "cost": 1,
       "attack": 0,
@@ -10113,7 +10113,7 @@
     {
       "id": "NAX8_04t",
       "name": "Spectral Warrior",
-      "image": .png,
+      "image": "7873.png",
       "type": "Minion",
       "cost": 3,
       "attack": 0,
@@ -10123,7 +10123,7 @@
     {
       "id": "NAX6_03t",
       "name": "Spore",
-      "image": .png,
+      "image": "7855.png",
       "type": "Minion",
       "cost": 0,
       "attack": 0,
@@ -10136,7 +10136,7 @@
     {
       "id": "NAX6_04",
       "name": "Sporeburst",
-      "image": .png,
+      "image": "7857.png",
       "type": "Spell",
       "cost": 1,
       "text": "Deal $1 damage to all enemy minions. Summon a Spore."
@@ -10144,7 +10144,7 @@
     {
       "id": "NAX13_05H",
       "name": "Stalagg",
-      "image": .png,
+      "image": "7801.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -10155,7 +10155,7 @@
     {
       "id": "FP1_014",
       "name": "Stalagg",
-      "image": .png,
+      "image": "7744.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -10175,7 +10175,7 @@
     {
       "id": "FP1_027",
       "name": "Stoneskin Gargoyle",
-      "image": .png,
+      "image": "7750.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -10191,7 +10191,7 @@
     {
       "id": "NAX13_03",
       "name": "Supercharge",
-      "image": .png,
+      "image": "7798.png",
       "type": "Spell",
       "cost": 2,
       "text": "Give your minions +2 Health."
@@ -10206,21 +10206,21 @@
     {
       "id": "NAX13_01H",
       "name": "Thaddius",
-      "image": .png,
+      "image": "7795.png",
       "type": "Hero",
       "health": 45
     },
     {
       "id": "NAX13_01",
       "name": "Thaddius",
-      "image": .png,
+      "image": "7794.png",
       "type": "Hero",
       "health": 30
     },
     {
       "id": "FP1_014t",
       "name": "Thaddius",
-      "image": .png,
+      "image": "7759.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 10,
@@ -10231,7 +10231,7 @@
     {
       "id": "NAX9_03H",
       "name": "Thane Korth'azz",
-      "image": .png,
+      "image": "7881.png",
       "type": "Minion",
       "cost": 3,
       "attack": 2,
@@ -10242,7 +10242,7 @@
     {
       "id": "NAX9_03",
       "name": "Thane Korth'azz",
-      "image": .png,
+      "image": "7880.png",
       "type": "Minion",
       "cost": 3,
       "attack": 1,
@@ -10253,7 +10253,7 @@
     {
       "id": "FP1_019t",
       "name": "Treant",
-      "image": .png,
+      "image": "7766.png",
       "type": "Minion",
       "cost": 1,
       "attack": 2,
@@ -10263,7 +10263,7 @@
     {
       "id": "NAX7_03",
       "name": "Unbalancing Strike",
-      "image": .png,
+      "image": "7861.png",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nDeal 3 damage."
@@ -10271,7 +10271,7 @@
     {
       "id": "NAX7_03H",
       "name": "Unbalancing Strike",
-      "image": .png,
+      "image": "7862.png",
       "type": "Hero Power",
       "cost": 1,
       "text": "<b>Hero Power</b>\nDeal 4 damage."
@@ -10279,7 +10279,7 @@
     {
       "id": "NAX7_02",
       "name": "Understudy",
-      "image": .png,
+      "image": "7860.png",
       "type": "Minion",
       "cost": 2,
       "attack": 0,
@@ -10292,7 +10292,7 @@
     {
       "id": "FP1_028",
       "name": "Undertaker",
-      "image": .png,
+      "image": "7737.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -10308,7 +10308,7 @@
     {
       "id": "NAX9_06",
       "name": "Unholy Shadow",
-      "image": .png,
+      "image": "7886.png",
       "type": "Hero Power",
       "cost": 5,
       "text": "<b>Hero Power</b>\nDraw 2 cards."
@@ -10316,7 +10316,7 @@
     {
       "id": "NAX8_05",
       "name": "Unrelenting Rider",
-      "image": .png,
+      "image": "7874.png",
       "type": "Minion",
       "cost": 6,
       "attack": 5,
@@ -10329,7 +10329,7 @@
     {
       "id": "NAX8_03",
       "name": "Unrelenting Trainee",
-      "image": .png,
+      "image": "7870.png",
       "type": "Minion",
       "cost": 1,
       "attack": 2,
@@ -10342,7 +10342,7 @@
     {
       "id": "NAX8_04",
       "name": "Unrelenting Warrior",
-      "image": .png,
+      "image": "7872.png",
       "type": "Minion",
       "cost": 3,
       "attack": 3,
@@ -10355,7 +10355,7 @@
     {
       "id": "FP1_024",
       "name": "Unstable Ghoul",
-      "image": .png,
+      "image": "7757.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -10383,7 +10383,7 @@
     {
       "id": "FP1_022",
       "name": "Voidcaller",
-      "image": .png,
+      "image": "7733.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -10404,7 +10404,7 @@
     {
       "id": "FP1_016",
       "name": "Wailing Soul",
-      "image": .png,
+      "image": "7758.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -10423,7 +10423,7 @@
     {
       "id": "NAX3_02",
       "name": "Web Wrap",
-      "image": .png,
+      "image": "7834.png",
       "type": "Hero Power",
       "cost": 3,
       "text": "<b>Hero Power</b>\nReturn a random enemy minion to your opponent's hand."
@@ -10431,7 +10431,7 @@
     {
       "id": "NAX3_02H",
       "name": "Web Wrap",
-      "image": .png,
+      "image": "7835.png",
       "type": "Hero Power",
       "cost": 0,
       "text": "<b>Hero Power</b>\nReturn 2 random enemy minions to your opponent's hand."
@@ -10439,7 +10439,7 @@
     {
       "id": "FP1_011",
       "name": "Webspinner",
-      "image": .png,
+      "image": "7741.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -10460,7 +10460,7 @@
     {
       "id": "NAX2_05",
       "name": "Worshipper",
-      "image": .png,
+      "image": "7830.png",
       "type": "Minion",
       "cost": 3,
       "attack": 1,
@@ -10473,7 +10473,7 @@
     {
       "id": "NAX2_05H",
       "name": "Worshipper",
-      "image": .png,
+      "image": "7831.png",
       "type": "Minion",
       "cost": 3,
       "attack": 2,
@@ -10486,7 +10486,7 @@
     {
       "id": "FP1_001",
       "name": "Zombie Chow",
-      "image": .png,
+      "image": "683.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -11033,7 +11033,7 @@
     {
       "id": "GVG_029",
       "name": "Ancestor's Call",
-      "image": .png,
+      "image": "12218.png",
       "type": "Spell",
       "rarity": "Epic",
       "cost": 4,
@@ -11062,7 +11062,7 @@
     {
       "id": "GVG_085",
       "name": "Annoy-o-Tron",
-      "image": .png,
+      "image": "12181.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -11081,7 +11081,7 @@
     {
       "id": "GVG_030",
       "name": "Anodized Robo Cub",
-      "image": .png,
+      "image": "12219.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -11101,7 +11101,7 @@
     {
       "id": "GVG_069",
       "name": "Antique Healbot",
-      "image": .png,
+      "image": "12227.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 5,
@@ -11177,7 +11177,7 @@
     {
       "id": "GVG_119",
       "name": "Blingtron 3000",
-      "image": .png,
+      "image": "12183.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -11212,7 +11212,7 @@
     {
       "id": "GVG_099",
       "name": "Bomb Lobber",
-      "image": .png,
+      "image": "12193.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 5,
@@ -11243,7 +11243,7 @@
     {
       "id": "GVG_050",
       "name": "Bouncing Blade",
-      "image": .png,
+      "image": "12203.png",
       "type": "Spell",
       "rarity": "Epic",
       "cost": 3,
@@ -11264,7 +11264,7 @@
     {
       "id": "GVG_068",
       "name": "Burly Rockjaw Trogg",
-      "image": .png,
+      "image": "12233.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -11291,7 +11291,7 @@
     {
       "id": "GVG_017",
       "name": "Call Pet",
-      "image": .png,
+      "image": "12224.png",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 2,
@@ -11321,7 +11321,7 @@
     {
       "id": "GVG_121",
       "name": "Clockwork Giant",
-      "image": .png,
+      "image": "12201.png",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 12,
@@ -11336,7 +11336,7 @@
     {
       "id": "GVG_082",
       "name": "Clockwork Gnome",
-      "image": .png,
+      "image": "12200.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -11354,7 +11354,7 @@
     {
       "id": "GVG_062",
       "name": "Cobalt Guardian",
-      "image": .png,
+      "image": "12222.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 5,
@@ -11383,7 +11383,7 @@
     {
       "id": "GVG_059",
       "name": "Coghammer",
-      "image": .png,
+      "image": "12228.png",
       "type": "Weapon",
       "rarity": "Epic",
       "cost": 3,
@@ -11401,7 +11401,7 @@
     {
       "id": "GVG_013",
       "name": "Cogmaster",
-      "image": .png,
+      "image": "12179.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -11512,7 +11512,7 @@
     {
       "id": "GVG_019",
       "name": "Demonheart",
-      "image": .png,
+      "image": "12237.png",
       "type": "Spell",
       "rarity": "Epic",
       "cost": 5,
@@ -11533,7 +11533,7 @@
     {
       "id": "GVG_110",
       "name": "Dr. Boom",
-      "image": .png,
+      "image": "12182.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 7,
@@ -11581,7 +11581,7 @@
     {
       "id": "GVG_066",
       "name": "Dunemaul Shaman",
-      "image": .png,
+      "image": "12234.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -11624,7 +11624,7 @@
     {
       "id": "GVG_107",
       "name": "Enhance-o Mechano",
-      "image": .png,
+      "image": "12176.png",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 4,
@@ -11642,7 +11642,7 @@
     {
       "id": "GVG_076",
       "name": "Explosive Sheep",
-      "image": .png,
+      "image": "12180.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -11667,7 +11667,7 @@
     {
       "id": "GVG_026",
       "name": "Feign Death",
-      "image": .png,
+      "image": "12238.png",
       "type": "Spell",
       "rarity": "Epic",
       "cost": 2,
@@ -11680,7 +11680,7 @@
     {
       "id": "GVG_020",
       "name": "Fel Cannon",
-      "image": .png,
+      "image": "12221.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -11737,7 +11737,7 @@
     {
       "id": "GVG_001",
       "name": "Flamecannon",
-      "image": .png,
+      "image": "12192.png",
       "type": "Spell",
       "rarity": "Common",
       "cost": 2,
@@ -11784,7 +11784,7 @@
     {
       "id": "GVG_113",
       "name": "Foe Reaper 4000",
-      "image": .png,
+      "image": "12217.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 8,
@@ -11797,6 +11797,9 @@
       "elite": true,
       "race": "Mech"
     },
+
+
+
     {
       "id": "GVG_079",
       "name": "Force-Tank MAX",
@@ -11818,7 +11821,7 @@
     {
       "id": "GVG_049",
       "name": "Gahz'rilla",
-      "image": .png,
+      "image": "12232.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 7,
@@ -11935,7 +11938,7 @@
     {
       "id": "GVG_092",
       "name": "Gnomish Experimenter",
-      "image": .png,
+      "image": "12199.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -11952,7 +11955,7 @@
     {
       "id": "GVG_023",
       "name": "Goblin Auto-Barber",
-      "image": .png,
+      "image": "12212.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -11971,7 +11974,7 @@
     {
       "id": "GVG_004",
       "name": "Goblin Blastmage",
-      "image": .png,
+      "image": "12195.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -11989,7 +11992,7 @@
     {
       "id": "GVG_095",
       "name": "Goblin Sapper",
-      "image": .png,
+      "image": "12213.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -12068,7 +12071,7 @@
     {
       "id": "GVG_089",
       "name": "Illuminator",
-      "image": .png,
+      "image": "12214.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -12126,7 +12129,7 @@
     {
       "id": "GVG_027",
       "name": "Iron Sensei",
-      "image": .png,
+      "image": "12229.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -12150,7 +12153,7 @@
     {
       "id": "GVG_094",
       "name": "Jeeves",
-      "image": .png,
+      "image": "12216.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -12285,7 +12288,7 @@
     {
       "id": "GVG_090",
       "name": "Madder Bomber",
-      "image": .png,
+      "image": "12177.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 5,
@@ -12342,7 +12345,7 @@
     {
       "id": "GVG_034",
       "name": "Mech-Bear-Cat",
-      "image": .png,
+      "image": "12226.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 6,
@@ -12376,7 +12379,7 @@
     {
       "id": "GVG_006",
       "name": "Mechwarper",
-      "image": .png,
+      "image": "12188.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -12394,7 +12397,7 @@
     {
       "id": "GVG_116",
       "name": "Mekgineer Thermaplugg",
-      "image": .png,
+      "image": "12196.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 9,
@@ -12457,7 +12460,7 @@
     {
       "id": "GVG_103",
       "name": "Micro Machine",
-      "image": .png,
+      "image": "12189.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -12472,7 +12475,7 @@
     {
       "id": "GVG_102e",
       "name": "Might of Tinkertown",
-      "image": .png,
+      "image": "12202.png",
       "type": "Enchantment",
       "text": "+1/+1."
     },
@@ -12487,7 +12490,7 @@
     {
       "id": "GVG_111",
       "name": "Mimiron's Head",
-      "image": .png,
+      "image": "12190.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -12552,7 +12555,7 @@
     {
       "id": "GVG_061",
       "name": "Muster for Battle",
-      "image": .png,
+      "image": "12223.png",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 3,
@@ -12598,7 +12601,7 @@
     {
       "id": "GVG_088",
       "name": "Ogre Ninja",
-      "image": .png,
+      "image": "12235.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 5,
@@ -12616,7 +12619,7 @@
     {
       "id": "GVG_054",
       "name": "Ogre Warmaul",
-      "image": .png,
+      "image": "12211.png",
       "type": "Weapon",
       "rarity": "Common",
       "cost": 3,
@@ -12658,7 +12661,7 @@
     {
       "id": "GVG_096",
       "name": "Piloted Shredder",
-      "image": .png,
+      "image": "12191.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -12676,7 +12679,7 @@
     {
       "id": "GVG_105",
       "name": "Piloted Sky Golem",
-      "image": .png,
+      "image": "12175.png",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 6,
@@ -12767,7 +12770,7 @@
     {
       "id": "GVG_108",
       "name": "Recombobulator",
-      "image": .png,
+      "image": "12198.png",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 2,
@@ -12830,7 +12833,7 @@
     {
       "id": "GVG_047",
       "name": "Sabotage",
-      "image": .png,
+      "image": "12236.png",
       "type": "Spell",
       "rarity": "Epic",
       "cost": 4,
@@ -12878,7 +12881,7 @@
     {
       "id": "GVG_055",
       "name": "Screwjank Clunker",
-      "image": .png,
+      "image": "12220.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -12992,7 +12995,7 @@
     {
       "id": "GVG_053",
       "name": "Shieldmaiden",
-      "image": .png,
+      "image": "12215.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 6,
@@ -13034,7 +13037,7 @@
     {
       "id": "GVG_011",
       "name": "Shrinkmeister",
-      "image": .png,
+      "image": "12197.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -13084,7 +13087,7 @@
     {
       "id": "GVG_114",
       "name": "Sneed's Old Shredder",
-      "image": .png,
+      "image": "12187.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 8,
@@ -13103,7 +13106,7 @@
     {
       "id": "GVG_002",
       "name": "Snowchugger",
-      "image": .png,
+      "image": "12230.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -13141,7 +13144,7 @@
     {
       "id": "GVG_044",
       "name": "Spider Tank",
-      "image": .png,
+      "image": "12184.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -13297,7 +13300,7 @@
     {
       "id": "GVG_115",
       "name": "Toshley",
-      "image": .png,
+      "image": "12225.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -13360,7 +13363,7 @@
     {
       "id": "GVG_003",
       "name": "Unstable Portal",
-      "image": .png,
+      "image": "12178.png",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 2,
@@ -13373,7 +13376,7 @@
     {
       "id": "GVG_083",
       "name": "Upgraded Repair Bot",
-      "image": .png,
+      "image": "12185.png",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 5,
@@ -13416,7 +13419,7 @@
     {
       "id": "GVG_010",
       "name": "Velen's Chosen",
-      "image": .png,
+      "image": "12174.png",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -13525,7 +13528,7 @@
     {
       "id": "GVG_037",
       "name": "Whirling Zap-o-matic",
-      "image": .png,
+      "image": "12231.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -13816,7 +13819,7 @@
     {
       "id": "TU4a_002",
       "name": "Riverpaw Gnoll",
-      "image": .png,
+      "image": "678.png",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -13904,7 +13907,7 @@
     {
       "id": "PRO_001",
       "name": "Elite Tauren Chieftain",
-      "image": .png,
+      "image": "682.png",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -13978,7 +13981,7 @@
     {
       "id": "PRO_001a",
       "name": "I Am Murloc",
-      "image": .png,
+      "image": "714.png",
       "type": "Spell",
       "cost": 4,
       "text": "Summon three, four, or five 1/1 Murlocs."
@@ -13986,7 +13989,7 @@
     {
       "id": "PRO_001at",
       "name": "Murloc",
-      "image": .png,
+      "image": "715.png",
       "type": "Minion",
       "cost": 1,
       "attack": 1,
@@ -14010,7 +14013,7 @@
     {
       "id": "PRO_001c",
       "name": "Power of the Horde",
-      "image": .png,
+      "image": "717.png",
       "type": "Spell",
       "cost": 4,
       "text": "Summon a random Horde Warrior."
@@ -14032,7 +14035,7 @@
     {
       "id": "PRO_001b",
       "name": "Rogues Do It...",
-      "image": .png,
+      "image": "716.png",
       "type": "Spell",
       "cost": 4,
       "text": "Deal $4 damage. Draw a card."
