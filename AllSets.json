@@ -3,14 +3,14 @@
     {
       "id": "GAME_004",
       "name": "AFK",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Your turns are shorter."
     },
     {
       "id": "EX1_066",
       "name": "Acidic Swamp Ooze",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -29,7 +29,7 @@
     {
       "id": "CS2_041",
       "name": "Ancestral Healing",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -45,7 +45,7 @@
     {
       "id": "CS2_041e",
       "name": "Ancestral Infusion",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Taunt.",
       "playerClass": "Shaman",
@@ -56,7 +56,7 @@
     {
       "id": "HERO_09",
       "name": "Anduin Wrynn",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -67,7 +67,7 @@
     {
       "id": "NEW1_031",
       "name": "Animal Companion",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -82,7 +82,7 @@
     {
       "id": "CS2_025",
       "name": "Arcane Explosion",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -98,7 +98,7 @@
     {
       "id": "CS2_023",
       "name": "Arcane Intellect",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -114,7 +114,7 @@
     {
       "id": "EX1_277",
       "name": "Arcane Missiles",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -133,7 +133,7 @@
     {
       "id": "DS1_185",
       "name": "Arcane Shot",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -149,7 +149,7 @@
     {
       "id": "CS2_112",
       "name": "Arcanite Reaper",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Common",
@@ -166,7 +166,7 @@
     {
       "id": "CS2_155",
       "name": "Archmage",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -185,7 +185,7 @@
     {
       "id": "CS2_102",
       "name": "Armor Up!",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -196,7 +196,7 @@
     {
       "id": "CS2_080",
       "name": "Assassin's Blade",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Common",
@@ -213,7 +213,7 @@
     {
       "id": "CS2_076",
       "name": "Assassinate",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -229,7 +229,7 @@
     {
       "id": "GAME_002",
       "name": "Avatar of the Coin",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 0,
@@ -240,7 +240,7 @@
     {
       "id": "CS2_072",
       "name": "Backstab",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -256,14 +256,14 @@
     {
       "id": "EX1_399e",
       "name": "Berserking",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has increased Attack."
     },
     {
       "id": "CS2_092",
       "name": "Blessing of Kings",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -279,7 +279,7 @@
     {
       "id": "CS2_092e",
       "name": "Blessing of Kings",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+4/+4.",
       "playerClass": "Paladin"
@@ -287,7 +287,7 @@
     {
       "id": "CS2_087",
       "name": "Blessing of Might",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -303,7 +303,7 @@
     {
       "id": "CS2_087e",
       "name": "Blessing of Might",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "text": "+3 Attack.",
@@ -312,7 +312,7 @@
     {
       "id": "CS2_172",
       "name": "Bloodfen Raptor",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Free",
@@ -328,7 +328,7 @@
     {
       "id": "CS2_046e",
       "name": "Bloodlust",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+3 Attack this turn.",
       "playerClass": "Shaman",
@@ -339,7 +339,7 @@
     {
       "id": "CS2_046",
       "name": "Bloodlust",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -355,7 +355,7 @@
     {
       "id": "CS2_173",
       "name": "Bluegill Warrior",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -375,7 +375,7 @@
     {
       "id": "CS2_boar",
       "name": "Boar",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -387,7 +387,7 @@
     {
       "id": "CS2_187",
       "name": "Booty Bay Bodyguard",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -406,7 +406,7 @@
     {
       "id": "CS2_200",
       "name": "Boulderfist Ogre",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 6,
@@ -420,7 +420,7 @@
     {
       "id": "CS2_103",
       "name": "Charge",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -436,7 +436,7 @@
     {
       "id": "EX1_084e",
       "name": "Charge",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has <b>Charge</b>.",
       "playerClass": "Warrior"
@@ -444,7 +444,7 @@
     {
       "id": "DS1_178e",
       "name": "Charge",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Tundra Rhino grants <b>Charge</b>.",
       "playerClass": "Hunter"
@@ -452,7 +452,7 @@
     {
       "id": "CS2_103e2",
       "name": "Charge",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack and <b>Charge</b>.",
       "playerClass": "Warrior"
@@ -460,7 +460,7 @@
     {
       "id": "CS2_182",
       "name": "Chillwind Yeti",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -475,7 +475,7 @@
     {
       "id": "CS2_005o",
       "name": "Claw",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack this turn.",
       "playerClass": "Druid",
@@ -486,7 +486,7 @@
     {
       "id": "CS2_005",
       "name": "Claw",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -502,7 +502,7 @@
     {
       "id": "CS2_017o",
       "name": "Claws",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Your hero has +1 Attack this turn.",
       "playerClass": "Druid",
@@ -513,7 +513,7 @@
     {
       "id": "CS2_114",
       "name": "Cleave",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -529,7 +529,7 @@
     {
       "id": "EX1_019e",
       "name": "Cleric's Blessing",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1/+1.",
       "playerClass": "Priest"
@@ -537,21 +537,21 @@
     {
       "id": "GAME_003",
       "name": "Coin's Vengeance",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Going second makes your first minion stronger."
     },
     {
       "id": "GAME_003e",
       "name": "Coin's Vengence",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Going second makes your first minion stronger."
     },
     {
       "id": "CS2_093",
       "name": "Consecration",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -567,7 +567,7 @@
     {
       "id": "CS2_201",
       "name": "Core Hound",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 7,
@@ -582,7 +582,7 @@
     {
       "id": "CS2_063",
       "name": "Corruption",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -598,7 +598,7 @@
     {
       "id": "CS2_063e",
       "name": "Corruption",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "At the start of the corrupting player's turn, destroy this minion.",
       "playerClass": "Warlock"
@@ -606,7 +606,7 @@
     {
       "id": "CS2_083b",
       "name": "Dagger Mastery",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -617,7 +617,7 @@
     {
       "id": "EX1_582",
       "name": "Dalaran Mage",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -636,7 +636,7 @@
     {
       "id": "DS1_055",
       "name": "Darkscale Healer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -655,14 +655,14 @@
     {
       "id": "CS2_074e",
       "name": "Deadly Poison",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack."
     },
     {
       "id": "CS2_074",
       "name": "Deadly Poison",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -678,7 +678,7 @@
     {
       "id": "CS2_236e",
       "name": "Divine Spirit",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has double Health.",
       "playerClass": "Priest"
@@ -686,7 +686,7 @@
     {
       "id": "CS2_236",
       "name": "Divine Spirit",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 2,
@@ -701,7 +701,7 @@
     {
       "id": "EX1_025",
       "name": "Dragonling Mechanic",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -720,7 +720,7 @@
     {
       "id": "CS2_061",
       "name": "Drain Life",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -736,7 +736,7 @@
     {
       "id": "CS2_064",
       "name": "Dread Infernal",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -758,7 +758,7 @@
     {
       "id": "CS2_189",
       "name": "Elven Archer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -777,14 +777,14 @@
     {
       "id": "CS2_122e",
       "name": "Enhanced",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Raid Leader is granting this minion +1 Attack."
     },
     {
       "id": "CS2_013t",
       "name": "Excess Mana",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Draw a card. <i>(You can only have 10 Mana in your tray.)</i>",
@@ -793,7 +793,7 @@
     {
       "id": "CS2_108",
       "name": "Execute",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -809,7 +809,7 @@
     {
       "id": "NEW1_033o",
       "name": "Eye In The Sky",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Leokk is granting this minion +1 Attack.",
       "playerClass": "Hunter"
@@ -817,7 +817,7 @@
     {
       "id": "EX1_129",
       "name": "Fan of Knives",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -833,7 +833,7 @@
     {
       "id": "CS2_106",
       "name": "Fiery War Axe",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Free",
@@ -850,7 +850,7 @@
     {
       "id": "CS2_042",
       "name": "Fire Elemental",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -871,7 +871,7 @@
     {
       "id": "CS2_029",
       "name": "Fireball",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -898,7 +898,7 @@
     {
       "id": "CS2_032",
       "name": "Flamestrike",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -914,7 +914,7 @@
     {
       "id": "EX1_565o",
       "name": "Flametongue",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack from Flametongue Totem.",
       "playerClass": "Shaman"
@@ -922,7 +922,7 @@
     {
       "id": "EX1_565",
       "name": "Flametongue Totem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -946,7 +946,7 @@
     {
       "id": "hexfrog",
       "name": "Frog",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -962,7 +962,7 @@
     {
       "id": "CS2_026",
       "name": "Frost Nova",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -981,7 +981,7 @@
     {
       "id": "CS2_037",
       "name": "Frost Shock",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1000,7 +1000,7 @@
     {
       "id": "CS2_024",
       "name": "Frostbolt",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1019,14 +1019,14 @@
     {
       "id": "CS2_226e",
       "name": "Frostwolf Banner",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats."
     },
     {
       "id": "CS2_121",
       "name": "Frostwolf Grunt",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1045,7 +1045,7 @@
     {
       "id": "CS2_226",
       "name": "Frostwolf Warlord",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -1065,7 +1065,7 @@
     {
       "id": "DS1_175o",
       "name": "Furious Howl",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This Beast has +1 Attack from Timber Wolf.",
       "playerClass": "Hunter"
@@ -1073,7 +1073,7 @@
     {
       "id": "HERO_01",
       "name": "Garrosh Hellscream",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1084,7 +1084,7 @@
     {
       "id": "CS2_147",
       "name": "Gnomish Inventor",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -1103,7 +1103,7 @@
     {
       "id": "CS1_042",
       "name": "Goldshire Footman",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -1122,7 +1122,7 @@
     {
       "id": "EX1_508",
       "name": "Grimscale Oracle",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1143,7 +1143,7 @@
     {
       "id": "CS2_088",
       "name": "Guardian of Kings",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1164,7 +1164,7 @@
     {
       "id": "HERO_07",
       "name": "Gul'dan",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1175,7 +1175,7 @@
     {
       "id": "EX1_399",
       "name": "Gurubashi Berserker",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1191,7 +1191,7 @@
     {
       "id": "CS2_094",
       "name": "Hammer of Wrath",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1207,7 +1207,7 @@
     {
       "id": "EX1_371",
       "name": "Hand of Protection",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1223,7 +1223,7 @@
     {
       "id": "NEW1_009",
       "name": "Healing Totem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 1,
@@ -1236,7 +1236,7 @@
     {
       "id": "CS2_007",
       "name": "Healing Touch",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1252,7 +1252,7 @@
     {
       "id": "CS2_062",
       "name": "Hellfire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1268,7 +1268,7 @@
     {
       "id": "CS2_105e",
       "name": "Heroic Strike",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+4 Attack this turn.",
       "playerClass": "Warrior",
@@ -1279,7 +1279,7 @@
     {
       "id": "CS2_105",
       "name": "Heroic Strike",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1295,7 +1295,7 @@
     {
       "id": "EX1_246",
       "name": "Hex",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1311,7 +1311,7 @@
     {
       "id": "EX1_246e",
       "name": "Hexxed",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has been transformed!",
       "playerClass": "Shaman",
@@ -1322,7 +1322,7 @@
     {
       "id": "CS2_089",
       "name": "Holy Light",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1338,7 +1338,7 @@
     {
       "id": "CS1_112",
       "name": "Holy Nova",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1354,7 +1354,7 @@
     {
       "id": "CS1_130",
       "name": "Holy Smite",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1370,7 +1370,7 @@
     {
       "id": "DS1_070",
       "name": "Houndmaster",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1392,7 +1392,7 @@
     {
       "id": "NEW1_034",
       "name": "Huffer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -1408,7 +1408,7 @@
     {
       "id": "EX1_360e",
       "name": "Humility",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "text": "Attack has been changed to 1.",
@@ -1417,7 +1417,7 @@
     {
       "id": "EX1_360",
       "name": "Humility",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1433,7 +1433,7 @@
     {
       "id": "CS2_084e",
       "name": "Hunter's Mark",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has 1 Health.",
       "playerClass": "Hunter"
@@ -1441,7 +1441,7 @@
     {
       "id": "CS2_084",
       "name": "Hunter's Mark",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1457,7 +1457,7 @@
     {
       "id": "EX1_169",
       "name": "Innervate",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1473,7 +1473,7 @@
     {
       "id": "CS2_232",
       "name": "Ironbark Protector",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1494,7 +1494,7 @@
     {
       "id": "CS2_141",
       "name": "Ironforge Rifleman",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -1513,7 +1513,7 @@
     {
       "id": "CS2_125",
       "name": "Ironfur Grizzly",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1533,7 +1533,7 @@
     {
       "id": "HERO_08",
       "name": "Jaina Proudmoore",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1544,7 +1544,7 @@
     {
       "id": "EX1_539",
       "name": "Kill Command",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1560,7 +1560,7 @@
     {
       "id": "CS2_142",
       "name": "Kobold Geomancer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -1579,7 +1579,7 @@
     {
       "id": "NEW1_011",
       "name": "Kor'kron Elite",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -1599,7 +1599,7 @@
     {
       "id": "NEW1_033",
       "name": "Leokk",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -1612,7 +1612,7 @@
     {
       "id": "CS1h_001",
       "name": "Lesser Heal",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1623,7 +1623,7 @@
     {
       "id": "CS2_056",
       "name": "Life Tap",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1634,7 +1634,7 @@
     {
       "id": "CS2_091",
       "name": "Light's Justice",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1651,7 +1651,7 @@
     {
       "id": "CS2_162",
       "name": "Lord of the Arena",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -1670,14 +1670,14 @@
     {
       "id": "GAME_001",
       "name": "Luck of the Coin",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Going second grants you increased Health."
     },
     {
       "id": "CS2_118",
       "name": "Magma Rager",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 3,
@@ -1691,7 +1691,7 @@
     {
       "id": "HERO_06",
       "name": "Malfurion Stormrage",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1702,7 +1702,7 @@
     {
       "id": "CS2_009",
       "name": "Mark of the Wild",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1718,7 +1718,7 @@
     {
       "id": "CS2_009e",
       "name": "Mark of the Wild",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has +2/+2 and <b>Taunt</b>.",
       "playerClass": "Druid"
@@ -1726,7 +1726,7 @@
     {
       "id": "DS1_070o",
       "name": "Master's Presence",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2/+2 and <b>Taunt</b>.",
       "playerClass": "Hunter"
@@ -1746,14 +1746,14 @@
     {
       "id": "CS2_222o",
       "name": "Might of Stormwind",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Has +1/+1."
     },
     {
       "id": "DS1_233",
       "name": "Mind Blast",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1769,7 +1769,7 @@
     {
       "id": "CS1_113",
       "name": "Mind Control",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1785,7 +1785,7 @@
     {
       "id": "CS1_113e",
       "name": "Mind Control",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1795,7 +1795,7 @@
     {
       "id": "CS2_003",
       "name": "Mind Vision",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1811,7 +1811,7 @@
     {
       "id": "CS2_mirror",
       "name": "Mirror Image",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1827,7 +1827,7 @@
     {
       "id": "CS2_027",
       "name": "Mirror Image",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1843,7 +1843,7 @@
     {
       "id": "NEW1_032",
       "name": "Misha",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -1859,14 +1859,14 @@
     {
       "id": "EX1_508o",
       "name": "Mlarggragllabl!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This Murloc has +1 Attack."
     },
     {
       "id": "CS2_008",
       "name": "Moonfire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1882,7 +1882,7 @@
     {
       "id": "EX1_302",
       "name": "Mortal Coil",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1898,7 +1898,7 @@
     {
       "id": "DS1_183",
       "name": "Multi-Shot",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1914,7 +1914,7 @@
     {
       "id": "CS2_168",
       "name": "Murloc Raider",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Free",
@@ -1930,7 +1930,7 @@
     {
       "id": "EX1_506a",
       "name": "Murloc Scout",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1942,7 +1942,7 @@
     {
       "id": "EX1_506",
       "name": "Murloc Tidehunter",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -1971,7 +1971,7 @@
     {
       "id": "EX1_593",
       "name": "Nightblade",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -1990,7 +1990,7 @@
     {
       "id": "CS2_235",
       "name": "Northshire Cleric",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 1,
@@ -2010,7 +2010,7 @@
     {
       "id": "EX1_015",
       "name": "Novice Engineer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Free",
@@ -2029,7 +2029,7 @@
     {
       "id": "CS2_119",
       "name": "Oasis Snapjaw",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 4,
@@ -2044,7 +2044,7 @@
     {
       "id": "CS2_197",
       "name": "Ogre Magi",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2063,7 +2063,7 @@
     {
       "id": "CS2_022e",
       "name": "Polymorph",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2076,7 +2076,7 @@
     {
       "id": "CS2_022",
       "name": "Polymorph",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2092,7 +2092,7 @@
     {
       "id": "CS2_004",
       "name": "Power Word: Shield",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2108,7 +2108,7 @@
     {
       "id": "CS2_004e",
       "name": "Power Word: Shield",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Health.",
       "playerClass": "Priest"
@@ -2116,7 +2116,7 @@
     {
       "id": "CS2_122",
       "name": "Raid Leader",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 3,
@@ -2135,7 +2135,7 @@
     {
       "id": "CS2_196",
       "name": "Razorfen Hunter",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -2154,7 +2154,7 @@
     {
       "id": "CS2_213",
       "name": "Reckless Rocketeer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Free",
@@ -2173,7 +2173,7 @@
     {
       "id": "CS2_101",
       "name": "Reinforce",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2184,7 +2184,7 @@
     {
       "id": "HERO_05",
       "name": "Rexxar",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2195,7 +2195,7 @@
     {
       "id": "CS2_120",
       "name": "River Crocolisk",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 2,
@@ -2210,7 +2210,7 @@
     {
       "id": "CS2_045e",
       "name": "Rockbiter Weapon",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This character has +3 Attack this turn.",
       "playerClass": "Shaman",
@@ -2221,7 +2221,7 @@
     {
       "id": "CS2_045",
       "name": "Rockbiter Weapon",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2237,7 +2237,7 @@
     {
       "id": "NEW1_003",
       "name": "Sacrificial Pact",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -2252,7 +2252,7 @@
     {
       "id": "EX1_581",
       "name": "Sap",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2268,7 +2268,7 @@
     {
       "id": "CS2_011",
       "name": "Savage Roar",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2284,7 +2284,7 @@
     {
       "id": "CS2_011o",
       "name": "Savage Roar",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack this turn.",
       "playerClass": "Druid",
@@ -2295,7 +2295,7 @@
     {
       "id": "CS2_050",
       "name": "Searing Totem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2308,7 +2308,7 @@
     {
       "id": "CS2_179",
       "name": "Sen'jin Shieldmasta",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Free",
@@ -2327,7 +2327,7 @@
     {
       "id": "CS2_057",
       "name": "Shadow Bolt",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2343,7 +2343,7 @@
     {
       "id": "EX1_622",
       "name": "Shadow Word: Death",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -2358,7 +2358,7 @@
     {
       "id": "CS2_234",
       "name": "Shadow Word: Pain",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Free",
       "cost": 2,
@@ -2373,7 +2373,7 @@
     {
       "id": "CS2_017",
       "name": "Shapeshift",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2384,7 +2384,7 @@
     {
       "id": "CS2_083e",
       "name": "Sharpened",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1 Attack this turn.",
       "playerClass": "Rogue",
@@ -2395,7 +2395,7 @@
     {
       "id": "EX1_019",
       "name": "Shattered Sun Cleric",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2414,7 +2414,7 @@
     {
       "id": "CS2_tk1",
       "name": "Sheep",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2426,7 +2426,7 @@
     {
       "id": "EX1_606",
       "name": "Shield Block",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2442,7 +2442,7 @@
     {
       "id": "EX1_278",
       "name": "Shiv",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2458,7 +2458,7 @@
     {
       "id": "CS2_101t",
       "name": "Silver Hand Recruit",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Free",
       "cost": 1,
@@ -2469,7 +2469,7 @@
     {
       "id": "CS2_127",
       "name": "Silverback Patriarch",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -2489,7 +2489,7 @@
     {
       "id": "CS2_075",
       "name": "Sinister Strike",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2505,7 +2505,7 @@
     {
       "id": "skele11",
       "name": "Skeleton",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2517,7 +2517,7 @@
     {
       "id": "EX1_308",
       "name": "Soulfire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2533,7 +2533,7 @@
     {
       "id": "CS2_077",
       "name": "Sprint",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2549,7 +2549,7 @@
     {
       "id": "EX1_173",
       "name": "Starfire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2565,7 +2565,7 @@
     {
       "id": "CS2_237",
       "name": "Starving Buzzard",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 5,
@@ -2584,7 +2584,7 @@
     {
       "id": "DS1h_292",
       "name": "Steady Shot",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2595,7 +2595,7 @@
     {
       "id": "CS2_051",
       "name": "Stoneclaw Totem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2612,7 +2612,7 @@
     {
       "id": "CS2_171",
       "name": "Stonetusk Boar",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2632,7 +2632,7 @@
     {
       "id": "CS2_150",
       "name": "Stormpike Commando",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -2651,7 +2651,7 @@
     {
       "id": "CS2_222",
       "name": "Stormwind Champion",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -2671,7 +2671,7 @@
     {
       "id": "CS2_131",
       "name": "Stormwind Knight",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -2690,7 +2690,7 @@
     {
       "id": "EX1_306",
       "name": "Succubus",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2712,7 +2712,7 @@
     {
       "id": "CS2_012",
       "name": "Swipe",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2728,20 +2728,20 @@
     {
       "id": "GAME_005",
       "name": "The Coin",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "Gain 1 Mana Crystal this turn only."
     },
     {
       "id": "GAME_005e",
       "name": "The Coin",
-      "image": .png,
+      "image": "",
       "type": "Enchantment"
     },
     {
       "id": "HERO_02",
       "name": "Thrall",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2752,7 +2752,7 @@
     {
       "id": "DS1_175",
       "name": "Timber Wolf",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2774,7 +2774,7 @@
     {
       "id": "CS2_049",
       "name": "Totemic Call",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2785,7 +2785,7 @@
     {
       "id": "EX1_244e",
       "name": "Totemic Might",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Health.",
       "playerClass": "Shaman"
@@ -2793,7 +2793,7 @@
     {
       "id": "EX1_244",
       "name": "Totemic Might",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2809,7 +2809,7 @@
     {
       "id": "DS1_184",
       "name": "Tracking",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2825,7 +2825,7 @@
     {
       "id": "CS2_097",
       "name": "Truesilver Champion",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2843,7 +2843,7 @@
     {
       "id": "DS1_178",
       "name": "Tundra Rhino",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2862,7 +2862,7 @@
     {
       "id": "HERO_04",
       "name": "Uther Lightbringer",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2873,7 +2873,7 @@
     {
       "id": "HERO_03",
       "name": "Valeera Sanguinar",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2884,7 +2884,7 @@
     {
       "id": "NEW1_004",
       "name": "Vanish",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 6,
@@ -2898,7 +2898,7 @@
     {
       "id": "CS2_065",
       "name": "Voidwalker",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2920,7 +2920,7 @@
     {
       "id": "EX1_011",
       "name": "Voodoo Doctor",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Free",
@@ -2939,7 +2939,7 @@
     {
       "id": "CS2_186",
       "name": "War Golem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2954,7 +2954,7 @@
     {
       "id": "EX1_084",
       "name": "Warsong Commander",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -2972,7 +2972,7 @@
     {
       "id": "CS2_033",
       "name": "Water Elemental",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -2994,7 +2994,7 @@
     {
       "id": "EX1_400",
       "name": "Whirlwind",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3010,7 +3010,7 @@
     {
       "id": "CS2_082",
       "name": "Wicked Knife",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Free",
@@ -3022,7 +3022,7 @@
     {
       "id": "CS2_013",
       "name": "Wild Growth",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -3038,7 +3038,7 @@
     {
       "id": "CS2_039",
       "name": "Windfury",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Free",
@@ -3054,7 +3054,7 @@
     {
       "id": "EX1_587",
       "name": "Windspeaker",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3075,7 +3075,7 @@
     {
       "id": "CS2_124",
       "name": "Wolfrider",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Free",
@@ -3094,7 +3094,7 @@
     {
       "id": "CS2_052",
       "name": "Wrath of Air Totem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Free",
@@ -3113,7 +3113,7 @@
     {
       "id": "CS2_188o",
       "name": "'Inspired'",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has +2 Attack this turn.",
       "mechanics": [
@@ -3123,7 +3123,7 @@
     {
       "id": "EX1_097",
       "name": "Abomination",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3142,7 +3142,7 @@
     {
       "id": "CS2_188",
       "name": "Abusive Sergeant",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -3160,7 +3160,7 @@
     {
       "id": "EX1_007",
       "name": "Acolyte of Pain",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -3174,7 +3174,7 @@
     {
       "id": "NEW1_010",
       "name": "Al'Akir the Windlord",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 8,
@@ -3196,7 +3196,7 @@
     {
       "id": "EX1_006",
       "name": "Alarm-o-Bot",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -3211,7 +3211,7 @@
     {
       "id": "EX1_382",
       "name": "Aldor Peacekeeper",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3230,7 +3230,7 @@
     {
       "id": "EX1_561",
       "name": "Alexstrasza",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -3250,14 +3250,14 @@
     {
       "id": "EX1_561e",
       "name": "Alexstrasza's Fire",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Health set to 15."
     },
     {
       "id": "EX1_393",
       "name": "Amani Berserker",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3275,7 +3275,7 @@
     {
       "id": "CS2_038e",
       "name": "Ancestral Spirit",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "<b>Deathrattle:</b> Resummon this minion.",
       "playerClass": "Shaman"
@@ -3283,7 +3283,7 @@
     {
       "id": "CS2_038",
       "name": "Ancestral Spirit",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3297,7 +3297,7 @@
     {
       "id": "EX1_057",
       "name": "Ancient Brewmaster",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -3315,7 +3315,7 @@
     {
       "id": "EX1_584",
       "name": "Ancient Mage",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3333,7 +3333,7 @@
     {
       "id": "NEW1_008b",
       "name": "Ancient Secrets",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "Restore 5 Health.",
       "playerClass": "Druid"
@@ -3341,7 +3341,7 @@
     {
       "id": "NEW1_008a",
       "name": "Ancient Teachings",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "Draw 2 cards.",
       "playerClass": "Druid"
@@ -3349,7 +3349,7 @@
     {
       "id": "EX1_045",
       "name": "Ancient Watcher",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -3364,7 +3364,7 @@
     {
       "id": "NEW1_008",
       "name": "Ancient of Lore",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 7,
@@ -3379,7 +3379,7 @@
     {
       "id": "EX1_178",
       "name": "Ancient of War",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -3395,7 +3395,7 @@
     {
       "id": "EX1_009",
       "name": "Angry Chicken",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 1,
@@ -3413,7 +3413,7 @@
     {
       "id": "EX1_398",
       "name": "Arathi Weaponsmith",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3432,7 +3432,7 @@
     {
       "id": "EX1_089",
       "name": "Arcane Golem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3451,7 +3451,7 @@
     {
       "id": "EX1_559",
       "name": "Archmage Antonidas",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -3469,7 +3469,7 @@
     {
       "id": "EX1_067",
       "name": "Argent Commander",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3488,7 +3488,7 @@
     {
       "id": "EX1_362",
       "name": "Argent Protector",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3507,7 +3507,7 @@
     {
       "id": "EX1_008",
       "name": "Argent Squire",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -3525,7 +3525,7 @@
     {
       "id": "EX1_402",
       "name": "Armorsmith",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3542,7 +3542,7 @@
     {
       "id": "EX1_383t",
       "name": "Ashbringer",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "rarity": "Legendary",
       "cost": 5,
@@ -3553,7 +3553,7 @@
     {
       "id": "EX1_591",
       "name": "Auchenai Soulpriest",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3572,7 +3572,7 @@
     {
       "id": "EX1_384",
       "name": "Avenging Wrath",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -3589,7 +3589,7 @@
     {
       "id": "EX1_284",
       "name": "Azure Drake",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3609,7 +3609,7 @@
     {
       "id": "EX1_110t",
       "name": "Baine Bloodhoof",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 4,
@@ -3620,14 +3620,14 @@
     {
       "id": "EX1_014te",
       "name": "Bananas",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Has +1/+1."
     },
     {
       "id": "EX1_014t",
       "name": "Bananas",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 1,
       "text": "Give a minion +1/+1."
@@ -3635,7 +3635,7 @@
     {
       "id": "EX1_320",
       "name": "Bane of Doom",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -3649,7 +3649,7 @@
     {
       "id": "EX1_249",
       "name": "Baron Geddon",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -3665,7 +3665,7 @@
     {
       "id": "EX1_398t",
       "name": "Battle Axe",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "cost": 1,
       "attack": 2,
@@ -3675,7 +3675,7 @@
     {
       "id": "EX1_392",
       "name": "Battle Rage",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3689,7 +3689,7 @@
     {
       "id": "EX1_165b",
       "name": "Bear Form",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3699,7 +3699,7 @@
     {
       "id": "EX1_604o",
       "name": "Berserk",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack.",
       "playerClass": "Warrior"
@@ -3707,7 +3707,7 @@
     {
       "id": "EX1_549",
       "name": "Bestial Wrath",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -3721,7 +3721,7 @@
     {
       "id": "EX1_549o",
       "name": "Bestial Wrath",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack and <b>Immune</b> this turn.",
       "playerClass": "Hunter",
@@ -3732,7 +3732,7 @@
     {
       "id": "EX1_126",
       "name": "Betrayal",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3746,7 +3746,7 @@
     {
       "id": "EX1_005",
       "name": "Big Game Hunter",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 3,
@@ -3763,7 +3763,7 @@
     {
       "id": "EX1_570",
       "name": "Bite",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3777,7 +3777,7 @@
     {
       "id": "EX1_570e",
       "name": "Bite",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+4 Attack this turn.",
       "mechanics": [
@@ -3787,7 +3787,7 @@
     {
       "id": "CS2_233",
       "name": "Blade Flurry",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3804,14 +3804,14 @@
     {
       "id": "EX1_509e",
       "name": "Blarghghl",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack."
     },
     {
       "id": "EX1_355e",
       "name": "Blessed Champion",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion's Attack has been doubled.",
       "playerClass": "Paladin"
@@ -3819,7 +3819,7 @@
     {
       "id": "EX1_355",
       "name": "Blessed Champion",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 5,
@@ -3832,7 +3832,7 @@
     {
       "id": "EX1_363",
       "name": "Blessing of Wisdom",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 1,
@@ -3845,7 +3845,7 @@
     {
       "id": "EX1_363e",
       "name": "Blessing of Wisdom",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "When this minion attacks, the player who blessed it draws a card.",
       "playerClass": "Paladin"
@@ -3853,7 +3853,7 @@
     {
       "id": "EX1_363e2",
       "name": "Blessing of Wisdom",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "When this minion attacks, the enemy player draws a card.",
       "playerClass": "Paladin"
@@ -3861,7 +3861,7 @@
     {
       "id": "CS2_028",
       "name": "Blizzard",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -3878,7 +3878,7 @@
     {
       "id": "EX1_323w",
       "name": "Blood Fury",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "cost": 3,
       "attack": 3,
@@ -3888,7 +3888,7 @@
     {
       "id": "CS2_059",
       "name": "Blood Imp",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3909,7 +3909,7 @@
     {
       "id": "EX1_590",
       "name": "Blood Knight",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -3927,7 +3927,7 @@
     {
       "id": "CS2_059o",
       "name": "Blood Pact",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Health.",
       "playerClass": "Warlock"
@@ -3935,7 +3935,7 @@
     {
       "id": "EX1_012",
       "name": "Bloodmage Thalnos",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -3955,7 +3955,7 @@
     {
       "id": "EX1_411e",
       "name": "Bloodrage",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "No durability loss.",
       "playerClass": "Warrior"
@@ -3963,7 +3963,7 @@
     {
       "id": "NEW1_025",
       "name": "Bloodsail Corsair",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 1,
@@ -3981,7 +3981,7 @@
     {
       "id": "NEW1_018",
       "name": "Bloodsail Raider",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -3999,14 +3999,14 @@
     {
       "id": "NEW1_025e",
       "name": "Bolstered",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Health."
     },
     {
       "id": "EX1_407",
       "name": "Brawl",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -4020,7 +4020,7 @@
     {
       "id": "EX1_091",
       "name": "Cabal Shadow Priest",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -4039,7 +4039,7 @@
     {
       "id": "EX1_110",
       "name": "Cairne Bloodhoof",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Legendary",
@@ -4058,14 +4058,14 @@
     {
       "id": "tt_004o",
       "name": "Cannibalize",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack."
     },
     {
       "id": "NEW1_024",
       "name": "Captain Greenskin",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -4084,7 +4084,7 @@
     {
       "id": "EX1_165a",
       "name": "Cat Form",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4094,7 +4094,7 @@
     {
       "id": "EX1_573",
       "name": "Cenarius",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -4112,7 +4112,7 @@
     {
       "id": "EX1_621",
       "name": "Circle of Healing",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -4125,7 +4125,7 @@
     {
       "id": "CS2_073e",
       "name": "Cold Blood",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack.",
       "playerClass": "Rogue"
@@ -4133,7 +4133,7 @@
     {
       "id": "CS2_073",
       "name": "Cold Blood",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4150,7 +4150,7 @@
     {
       "id": "CS2_073e2",
       "name": "Cold Blood",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+4 Attack.",
       "playerClass": "Rogue"
@@ -4158,7 +4158,7 @@
     {
       "id": "EX1_050",
       "name": "Coldlight Oracle",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4177,7 +4177,7 @@
     {
       "id": "EX1_103",
       "name": "Coldlight Seer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4196,7 +4196,7 @@
     {
       "id": "NEW1_036e2",
       "name": "Commanding Shout",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Your minions can't be reduced below 1 Health this turn.",
       "playerClass": "Warrior",
@@ -4207,7 +4207,7 @@
     {
       "id": "NEW1_036",
       "name": "Commanding Shout",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 2,
@@ -4220,7 +4220,7 @@
     {
       "id": "NEW1_036e",
       "name": "Commanding Shout",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Can't be reduced below 1 Health this turn.",
       "playerClass": "Warrior",
@@ -4231,7 +4231,7 @@
     {
       "id": "EX1_128",
       "name": "Conceal",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4245,7 +4245,7 @@
     {
       "id": "EX1_128e",
       "name": "Concealed",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Stealthed until your next turn.",
       "playerClass": "Rogue"
@@ -4253,7 +4253,7 @@
     {
       "id": "EX1_275",
       "name": "Cone of Cold",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4270,7 +4270,7 @@
     {
       "id": "EX1_304e",
       "name": "Consume",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats.",
       "playerClass": "Warlock"
@@ -4278,7 +4278,7 @@
     {
       "id": "EX1_287",
       "name": "Counterspell",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4295,7 +4295,7 @@
     {
       "id": "EX1_059",
       "name": "Crazed Alchemist",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4313,7 +4313,7 @@
     {
       "id": "EX1_603",
       "name": "Cruel Taskmaster",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4332,7 +4332,7 @@
     {
       "id": "EX1_595",
       "name": "Cult Master",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4348,7 +4348,7 @@
     {
       "id": "skele21",
       "name": "Damaged Golem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4360,7 +4360,7 @@
     {
       "id": "EX1_334e",
       "name": "Dark Command",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has switched controllers this turn.",
       "playerClass": "Priest"
@@ -4368,7 +4368,7 @@
     {
       "id": "EX1_046",
       "name": "Dark Iron Dwarf",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -4386,7 +4386,7 @@
     {
       "id": "EX1_617",
       "name": "Deadly Shot",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4400,7 +4400,7 @@
     {
       "id": "NEW1_030",
       "name": "Deathwing",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 10,
@@ -4419,7 +4419,7 @@
     {
       "id": "EX1_130a",
       "name": "Defender",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4431,7 +4431,7 @@
     {
       "id": "EX1_093",
       "name": "Defender of Argus",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -4449,7 +4449,7 @@
     {
       "id": "EX1_131t",
       "name": "Defias Bandit",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "cost": 1,
@@ -4460,7 +4460,7 @@
     {
       "id": "EX1_131",
       "name": "Defias Ringleader",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4479,7 +4479,7 @@
     {
       "id": "EX1_573ae",
       "name": "Demigod's Favor",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "text": "+2/+2.",
@@ -4488,7 +4488,7 @@
     {
       "id": "EX1_573a",
       "name": "Demigod's Favor",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Give your other minions +2/+2.",
@@ -4497,7 +4497,7 @@
     {
       "id": "EX1_102",
       "name": "Demolisher",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4514,7 +4514,7 @@
     {
       "id": "EX1_596",
       "name": "Demonfire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4528,7 +4528,7 @@
     {
       "id": "EX1_596e",
       "name": "Demonfire",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4539,7 +4539,7 @@
     {
       "id": "EX1_161o",
       "name": "Demoralizing Roar",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has -3 Attack this turn.",
       "playerClass": "Druid",
@@ -4550,7 +4550,7 @@
     {
       "id": "EX1_tk29",
       "name": "Devilsaur",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4562,7 +4562,7 @@
     {
       "id": "EX1_162",
       "name": "Dire Wolf Alpha",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4583,7 +4583,7 @@
     {
       "id": "EX1_166b",
       "name": "Dispel",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "<b>Silence</b> a minion.",
@@ -4595,7 +4595,7 @@
     {
       "id": "EX1_349",
       "name": "Divine Favor",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4609,7 +4609,7 @@
     {
       "id": "EX1_310",
       "name": "Doomguard",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4630,7 +4630,7 @@
     {
       "id": "EX1_567",
       "name": "Doomhammer",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -4649,7 +4649,7 @@
     {
       "id": "NEW1_021",
       "name": "Doomsayer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 2,
@@ -4663,7 +4663,7 @@
     {
       "id": "NEW1_022",
       "name": "Dread Corsair",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -4681,7 +4681,7 @@
     {
       "id": "DREAM_04",
       "name": "Dream",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Return a minion to its owner's hand.",
@@ -4690,7 +4690,7 @@
     {
       "id": "EX1_165t2",
       "name": "Druid of the Claw",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 5,
@@ -4706,7 +4706,7 @@
     {
       "id": "EX1_165",
       "name": "Druid of the Claw",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4722,7 +4722,7 @@
     {
       "id": "EX1_165t1",
       "name": "Druid of the Claw",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 5,
@@ -4738,7 +4738,7 @@
     {
       "id": "EX1_243",
       "name": "Dust Devil",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4757,7 +4757,7 @@
     {
       "id": "EX1_536",
       "name": "Eaglehorn Bow",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "rarity": "Rare",
       "cost": 3,
@@ -4772,7 +4772,7 @@
     {
       "id": "EX1_250",
       "name": "Earth Elemental",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -4791,7 +4791,7 @@
     {
       "id": "EX1_245",
       "name": "Earth Shock",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4808,7 +4808,7 @@
     {
       "id": "CS2_117",
       "name": "Earthen Ring Farseer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -4825,7 +4825,7 @@
     {
       "id": "EX1_613",
       "name": "Edwin VanCleef",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -4845,14 +4845,14 @@
     {
       "id": "EX1_004e",
       "name": "Elune's Grace",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Health."
     },
     {
       "id": "DREAM_03",
       "name": "Emerald Drake",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 4,
       "attack": 7,
@@ -4863,7 +4863,7 @@
     {
       "id": "EX1_170",
       "name": "Emperor Cobra",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4883,7 +4883,7 @@
     {
       "id": "EX1_055o",
       "name": "Empowered",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Mana Addict has increased Attack.",
       "mechanics": [
@@ -4893,7 +4893,7 @@
     {
       "id": "EX1_619e",
       "name": "Equality",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Health changed to 1.",
       "playerClass": "Paladin"
@@ -4901,7 +4901,7 @@
     {
       "id": "EX1_619",
       "name": "Equality",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4915,7 +4915,7 @@
     {
       "id": "NEW1_037e",
       "name": "Equipped",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack.",
       "collectible": false
@@ -4923,7 +4923,7 @@
     {
       "id": "EX1_274",
       "name": "Ethereal Arcanist",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -4939,7 +4939,7 @@
     {
       "id": "EX1_124",
       "name": "Eviscerate",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4956,14 +4956,14 @@
     {
       "id": "EX1_059e",
       "name": "Experiments!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Attack and Health have been swapped by Crazed Alchemist."
     },
     {
       "id": "EX1_537",
       "name": "Explosive Shot",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -4977,7 +4977,7 @@
     {
       "id": "EX1_610",
       "name": "Explosive Trap",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -4994,7 +4994,7 @@
     {
       "id": "EX1_132",
       "name": "Eye for an Eye",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5011,7 +5011,7 @@
     {
       "id": "EX1_564",
       "name": "Faceless Manipulator",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -5029,7 +5029,7 @@
     {
       "id": "NEW1_023",
       "name": "Faerie Dragon",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -5044,7 +5044,7 @@
     {
       "id": "CS2_053e",
       "name": "Far Sight",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "One of your cards costs (3) less.",
       "artist": "Lars Grant-West",
@@ -5053,7 +5053,7 @@
     {
       "id": "CS2_053",
       "name": "Far Sight",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -5067,7 +5067,7 @@
     {
       "id": "EX1_301",
       "name": "Felguard",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5088,7 +5088,7 @@
     {
       "id": "CS1_069",
       "name": "Fen Creeper",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -5106,7 +5106,7 @@
     {
       "id": "EX1_248",
       "name": "Feral Spirit",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5120,7 +5120,7 @@
     {
       "id": "EX1_finkle",
       "name": "Finkle Einhorn",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -5132,7 +5132,7 @@
     {
       "id": "EX1_319",
       "name": "Flame Imp",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5161,7 +5161,7 @@
     {
       "id": "EX1_544",
       "name": "Flare",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5175,7 +5175,7 @@
     {
       "id": "tt_004",
       "name": "Flesheating Ghoul",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5191,7 +5191,7 @@
     {
       "id": "EX1_571",
       "name": "Force of Nature",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -5205,7 +5205,7 @@
     {
       "id": "EX1_251",
       "name": "Forked Lightning",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5219,7 +5219,7 @@
     {
       "id": "EX1_611",
       "name": "Freezing Trap",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5236,7 +5236,7 @@
     {
       "id": "EX1_283",
       "name": "Frost Elemental",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5255,7 +5255,7 @@
     {
       "id": "EX1_604",
       "name": "Frothing Berserker",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5272,21 +5272,21 @@
     {
       "id": "NEW1_017e",
       "name": "Full Belly",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2/+2.  Full of Murloc."
     },
     {
       "id": "CS2_181e",
       "name": "Full Strength",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has +2 Attack."
     },
     {
       "id": "EX1_095",
       "name": "Gadgetzan Auctioneer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5302,7 +5302,7 @@
     {
       "id": "DS1_188",
       "name": "Gladiator's Longbow",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -5318,7 +5318,7 @@
     {
       "id": "NEW1_040t",
       "name": "Gnoll",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 2,
       "attack": 2,
@@ -5331,7 +5331,7 @@
     {
       "id": "EX1_411",
       "name": "Gorehowl",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -5347,14 +5347,14 @@
     {
       "id": "NEW1_024o",
       "name": "Greenskin's Command",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1/+1."
     },
     {
       "id": "EX1_414",
       "name": "Grommash Hellscream",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -5375,14 +5375,14 @@
     {
       "id": "NEW1_038o",
       "name": "Growth",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Gruul is growing..."
     },
     {
       "id": "NEW1_038",
       "name": "Gruul",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 8,
@@ -5398,14 +5398,14 @@
     {
       "id": "EX1_093e",
       "name": "Hand of Argus",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1/+1 and <b>Taunt</b>."
     },
     {
       "id": "EX1_558",
       "name": "Harrison Jones",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -5424,7 +5424,7 @@
     {
       "id": "EX1_556",
       "name": "Harvest Golem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5443,7 +5443,7 @@
     {
       "id": "EX1_137",
       "name": "Headcrack",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5460,7 +5460,7 @@
     {
       "id": "EX1_409t",
       "name": "Heavy Axe",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "cost": 1,
       "attack": 1,
@@ -5470,7 +5470,7 @@
     {
       "id": "NEW1_040",
       "name": "Hogger",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -5485,7 +5485,7 @@
     {
       "id": "EX1_624",
       "name": "Holy Fire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 6,
@@ -5498,7 +5498,7 @@
     {
       "id": "EX1_365",
       "name": "Holy Wrath",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5512,7 +5512,7 @@
     {
       "id": "EX1_538t",
       "name": "Hound",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 1,
       "attack": 1,
@@ -5527,14 +5527,14 @@
     {
       "id": "EX1_043e",
       "name": "Hour of Twilight",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Health."
     },
     {
       "id": "NEW1_017",
       "name": "Hungry Crab",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 1,
@@ -5565,7 +5565,7 @@
     {
       "id": "EX1_tk33",
       "name": "INFERNO!",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "faction": "Neutral",
       "cost": 2,
@@ -5575,7 +5575,7 @@
     {
       "id": "EX1_289",
       "name": "Ice Barrier",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5592,7 +5592,7 @@
     {
       "id": "EX1_295",
       "name": "Ice Block",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -5609,7 +5609,7 @@
     {
       "id": "EX1_295o",
       "name": "Ice Block",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Your hero is <b>Immune</b> this turn.",
       "playerClass": "Mage",
@@ -5620,7 +5620,7 @@
     {
       "id": "CS2_031",
       "name": "Ice Lance",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5637,7 +5637,7 @@
     {
       "id": "EX1_614",
       "name": "Illidan Stormrage",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -5654,7 +5654,7 @@
     {
       "id": "EX1_598",
       "name": "Imp",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5666,7 +5666,7 @@
     {
       "id": "EX1_597",
       "name": "Imp Master",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5682,7 +5682,7 @@
     {
       "id": "EX1_tk34",
       "name": "Infernal",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5695,7 +5695,7 @@
     {
       "id": "EX1_623e",
       "name": "Infusion",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+3 Health.",
       "playerClass": "Priest"
@@ -5703,7 +5703,7 @@
     {
       "id": "CS2_181",
       "name": "Injured Blademaster",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Rare",
@@ -5722,7 +5722,7 @@
     {
       "id": "CS1_129e",
       "name": "Inner Fire",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion's Attack is equal to its Health.",
       "playerClass": "Priest"
@@ -5730,7 +5730,7 @@
     {
       "id": "CS1_129",
       "name": "Inner Fire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5744,7 +5744,7 @@
     {
       "id": "EX1_607e",
       "name": "Inner Rage",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack.",
       "playerClass": "Warrior"
@@ -5752,7 +5752,7 @@
     {
       "id": "EX1_607",
       "name": "Inner Rage",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -5766,7 +5766,7 @@
     {
       "id": "CS2_203",
       "name": "Ironbeak Owl",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -5785,7 +5785,7 @@
     {
       "id": "EX1_017",
       "name": "Jungle Panther",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -5804,7 +5804,7 @@
     {
       "id": "EX1_366e",
       "name": "Justice Served",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Has +1/+1.",
       "playerClass": "Paladin"
@@ -5812,7 +5812,7 @@
     {
       "id": "EX1_166",
       "name": "Keeper of the Grove",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5828,14 +5828,14 @@
     {
       "id": "EX1_080o",
       "name": "Keeping Secrets",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats."
     },
     {
       "id": "NEW1_005",
       "name": "Kidnapper",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 6,
@@ -5853,7 +5853,7 @@
     {
       "id": "NEW1_029t",
       "name": "Kill Millhouse!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "rarity": "Legendary",
       "text": "Spells cost (0) this turn!"
@@ -5861,7 +5861,7 @@
     {
       "id": "EX1_543",
       "name": "King Krush",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -5882,7 +5882,7 @@
     {
       "id": "EX1_014",
       "name": "King Mukla",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 3,
@@ -5901,7 +5901,7 @@
     {
       "id": "EX1_612",
       "name": "Kirin Tor Mage",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -5920,7 +5920,7 @@
     {
       "id": "NEW1_019",
       "name": "Knife Juggler",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 2,
@@ -5935,7 +5935,7 @@
     {
       "id": "DREAM_01",
       "name": "Laughing Sister",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 3,
       "attack": 3,
@@ -5961,7 +5961,7 @@
     {
       "id": "EX1_354",
       "name": "Lay on Hands",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -5975,7 +5975,7 @@
     {
       "id": "EX1_160b",
       "name": "Leader of the Pack",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Give your minions +1/+1.",
@@ -5984,7 +5984,7 @@
     {
       "id": "EX1_160be",
       "name": "Leader of the Pack",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1/+1",
       "playerClass": "Druid"
@@ -6012,7 +6012,7 @@
     {
       "id": "EX1_029",
       "name": "Leper Gnome",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6030,14 +6030,14 @@
     {
       "id": "EX1_044e",
       "name": "Level Up!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack and Health."
     },
     {
       "id": "EX1_238",
       "name": "Lightning Bolt",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6065,7 +6065,7 @@
     {
       "id": "EX1_335",
       "name": "Lightspawn",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6081,7 +6081,7 @@
     {
       "id": "EX1_001",
       "name": "Lightwarden",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 1,
@@ -6095,7 +6095,7 @@
     {
       "id": "EX1_341",
       "name": "Lightwell",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6112,7 +6112,7 @@
     {
       "id": "EX1_096",
       "name": "Loot Hoarder",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6130,7 +6130,7 @@
     {
       "id": "EX1_323",
       "name": "Lord Jaraxxus",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 9,
@@ -6150,7 +6150,7 @@
     {
       "id": "EX1_323h",
       "name": "Lord Jaraxxus",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -6163,7 +6163,7 @@
     {
       "id": "EX1_100",
       "name": "Lorewalker Cho",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -6180,7 +6180,7 @@
     {
       "id": "EX1_082",
       "name": "Mad Bomber",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -6198,7 +6198,7 @@
     {
       "id": "EX1_563",
       "name": "Malygos",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -6218,7 +6218,7 @@
     {
       "id": "EX1_055",
       "name": "Mana Addict",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -6234,7 +6234,7 @@
     {
       "id": "NEW1_012o",
       "name": "Mana Gorged",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased attack.",
       "playerClass": "Mage"
@@ -6242,7 +6242,7 @@
     {
       "id": "EX1_575",
       "name": "Mana Tide Totem",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6259,7 +6259,7 @@
     {
       "id": "EX1_616",
       "name": "Mana Wraith",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6277,7 +6277,7 @@
     {
       "id": "NEW1_012",
       "name": "Mana Wyrm",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -6293,7 +6293,7 @@
     {
       "id": "EX1_155be",
       "name": "Mark of Nature",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has +4 Health and <b>Taunt</b>.",
       "playerClass": "Druid"
@@ -6301,7 +6301,7 @@
     {
       "id": "EX1_155",
       "name": "Mark of Nature",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6315,7 +6315,7 @@
     {
       "id": "EX1_155b",
       "name": "Mark of Nature",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "+4 Health and <b>Taunt</b>.",
@@ -6324,7 +6324,7 @@
     {
       "id": "EX1_155a",
       "name": "Mark of Nature",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "+4 Attack.",
@@ -6333,7 +6333,7 @@
     {
       "id": "EX1_155ae",
       "name": "Mark of Nature",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has +4 Attack.",
       "playerClass": "Druid"
@@ -6341,7 +6341,7 @@
     {
       "id": "EX1_626",
       "name": "Mass Dispel",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 4,
@@ -6357,7 +6357,7 @@
     {
       "id": "NEW1_037",
       "name": "Master Swordsmith",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 2,
@@ -6372,7 +6372,7 @@
     {
       "id": "NEW1_014",
       "name": "Master of Disguise",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -6390,7 +6390,7 @@
     {
       "id": "NEW1_029",
       "name": "Millhouse Manastorm",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 2,
@@ -6408,7 +6408,7 @@
     {
       "id": "EX1_085",
       "name": "Mind Control Tech",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -6426,7 +6426,7 @@
     {
       "id": "EX1_tk31",
       "name": "Mind Controlling",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6438,7 +6438,7 @@
     {
       "id": "EX1_625t2",
       "name": "Mind Shatter",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nDeal 3 damage.",
@@ -6447,7 +6447,7 @@
     {
       "id": "EX1_625t",
       "name": "Mind Spike",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nDeal 2 damage.",
@@ -6456,7 +6456,7 @@
     {
       "id": "EX1_345",
       "name": "Mindgames",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -6470,7 +6470,7 @@
     {
       "id": "EX1_294",
       "name": "Mirror Entity",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6487,7 +6487,7 @@
     {
       "id": "EX1_533",
       "name": "Misdirection",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6504,7 +6504,7 @@
     {
       "id": "EX1_396",
       "name": "Mogu'shan Warden",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6522,7 +6522,7 @@
     {
       "id": "EX1_620",
       "name": "Molten Giant",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 20,
@@ -6536,7 +6536,7 @@
     {
       "id": "EX1_166a",
       "name": "Moonfire",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Deal 2 damage.",
@@ -6545,7 +6545,7 @@
     {
       "id": "EX1_408",
       "name": "Mortal Strike",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6559,7 +6559,7 @@
     {
       "id": "EX1_105",
       "name": "Mountain Giant",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -6574,21 +6574,21 @@
     {
       "id": "EX1_507e",
       "name": "Mrgglaargl!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Murloc Warleader is granting +2/+1."
     },
     {
       "id": "EX1_103e",
       "name": "Mrghlglhal",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Health."
     },
     {
       "id": "EX1_509",
       "name": "Murloc Tidecaller",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6604,7 +6604,7 @@
     {
       "id": "EX1_507",
       "name": "Murloc Warleader",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -6623,7 +6623,7 @@
     {
       "id": "EX1_557",
       "name": "Nat Pagle",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -6640,7 +6640,7 @@
     {
       "id": "EX1_161",
       "name": "Naturalize",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6654,7 +6654,7 @@
     {
       "id": "EX1_411e2",
       "name": "Needs Sharpening",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Decreased Attack.",
       "playerClass": "Warrior"
@@ -6662,7 +6662,7 @@
     {
       "id": "DREAM_05",
       "name": "Nightmare",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Give a minion +5/+5. At the start of your next turn, destroy it.",
@@ -6671,14 +6671,14 @@
     {
       "id": "DREAM_05e",
       "name": "Nightmare",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has +5/+5, but will be destroyed soon."
     },
     {
       "id": "EX1_130",
       "name": "Noble Sacrifice",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6695,7 +6695,7 @@
     {
       "id": "EX1_164b",
       "name": "Nourish",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Draw 3 cards.",
@@ -6704,7 +6704,7 @@
     {
       "id": "EX1_164a",
       "name": "Nourish",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Gain 2 Mana Crystals.",
@@ -6713,7 +6713,7 @@
     {
       "id": "EX1_164",
       "name": "Nourish",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6727,7 +6727,7 @@
     {
       "id": "EX1_560",
       "name": "Nozdormu",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -6745,7 +6745,7 @@
     {
       "id": "EX1_562",
       "name": "Onyxia",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -6765,7 +6765,7 @@
     {
       "id": "EX1_258e",
       "name": "Overloading",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats.",
       "playerClass": "Shaman"
@@ -6773,7 +6773,7 @@
     {
       "id": "EX1_160t",
       "name": "Panther",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -6785,7 +6785,7 @@
     {
       "id": "EX1_522",
       "name": "Patient Assassin",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -6806,7 +6806,7 @@
     {
       "id": "EX1_133",
       "name": "Perdition's Blade",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -6826,7 +6826,7 @@
     {
       "id": "EX1_076",
       "name": "Pint-Sized Summoner",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -6845,7 +6845,7 @@
     {
       "id": "EX1_313",
       "name": "Pit Lord",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -6865,7 +6865,7 @@
     {
       "id": "EX1_316",
       "name": "Power Overwhelming",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6879,7 +6879,7 @@
     {
       "id": "EX1_316e",
       "name": "Power Overwhelming",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "faction": "Neutral",
       "text": "This minion has +4/+4, but will die a horrible death at the end of the turn.",
@@ -6888,7 +6888,7 @@
     {
       "id": "EX1_612o",
       "name": "Power of the Kirin Tor",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Your next Secret costs (0).",
       "playerClass": "Mage",
@@ -6899,7 +6899,7 @@
     {
       "id": "EX1_160",
       "name": "Power of the Wild",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6913,7 +6913,7 @@
     {
       "id": "EX1_145o",
       "name": "Preparation",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "The next spell you cast this turn costs (3) less.",
       "playerClass": "Rogue",
@@ -6924,7 +6924,7 @@
     {
       "id": "EX1_145",
       "name": "Preparation",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -6938,7 +6938,7 @@
     {
       "id": "EX1_583",
       "name": "Priestess of Elune",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -6956,7 +6956,7 @@
     {
       "id": "EX1_350",
       "name": "Prophet Velen",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -6973,7 +6973,7 @@
     {
       "id": "EX1_279",
       "name": "Pyroblast",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -6987,7 +6987,7 @@
     {
       "id": "EX1_044",
       "name": "Questing Adventurer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -7003,7 +7003,7 @@
     {
       "id": "EX1_412",
       "name": "Raging Worgen",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7021,7 +7021,7 @@
     {
       "id": "EX1_298",
       "name": "Ragnaros the Firelord",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -7037,7 +7037,7 @@
     {
       "id": "CS2_104e",
       "name": "Rampage",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+3/+3.",
       "playerClass": "Warrior"
@@ -7045,7 +7045,7 @@
     {
       "id": "CS2_104",
       "name": "Rampage",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7059,7 +7059,7 @@
     {
       "id": "CS2_161",
       "name": "Ravenholdt Assassin",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -7077,7 +7077,7 @@
     {
       "id": "EX1_274e",
       "name": "Raw Power!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats.",
       "playerClass": "Mage"
@@ -7085,7 +7085,7 @@
     {
       "id": "EX1_136",
       "name": "Redemption",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7102,7 +7102,7 @@
     {
       "id": "EX1_379e",
       "name": "Repentance",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Health reduced to 1.",
       "playerClass": "Paladin"
@@ -7110,7 +7110,7 @@
     {
       "id": "EX1_379",
       "name": "Repentance",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7127,7 +7127,7 @@
     {
       "id": "EX1_178ae",
       "name": "Rooted",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+5 Health and <b>Taunt</b>.",
       "playerClass": "Druid"
@@ -7135,7 +7135,7 @@
     {
       "id": "EX1_178a",
       "name": "Rooted",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "+5 Health and <b>Taunt</b>.",
@@ -7144,7 +7144,7 @@
     {
       "id": "EX1_134",
       "name": "SI:7 Agent",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -7163,7 +7163,7 @@
     {
       "id": "EX1_578",
       "name": "Savagery",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -7180,7 +7180,7 @@
     {
       "id": "EX1_534",
       "name": "Savannah Highmane",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 6,
@@ -7200,7 +7200,7 @@
     {
       "id": "EX1_020",
       "name": "Scarlet Crusader",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -7218,7 +7218,7 @@
     {
       "id": "EX1_531",
       "name": "Scavenging Hyena",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -7235,7 +7235,7 @@
     {
       "id": "EX1_586",
       "name": "Sea Giant",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -7250,7 +7250,7 @@
     {
       "id": "EX1_080",
       "name": "Secretkeeper",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -7266,7 +7266,7 @@
     {
       "id": "EX1_317",
       "name": "Sense Demons",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7280,7 +7280,7 @@
     {
       "id": "EX1_334",
       "name": "Shadow Madness",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -7294,7 +7294,7 @@
     {
       "id": "EX1_345t",
       "name": "Shadow of Nothing",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 0,
@@ -7323,7 +7323,7 @@
     {
       "id": "EX1_625",
       "name": "Shadowform",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Epic",
       "cost": 3,
@@ -7336,7 +7336,7 @@
     {
       "id": "EX1_590e",
       "name": "Shadows of M'uru",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "rarity": "Common",
       "text": "This minion has consumed Divine Shields and has increased Attack and Health."
@@ -7344,7 +7344,7 @@
     {
       "id": "EX1_144",
       "name": "Shadowstep",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7358,7 +7358,7 @@
     {
       "id": "EX1_573b",
       "name": "Shan'do's Lesson",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Summon two 2/2 Treants with <b>Taunt</b>.",
@@ -7367,21 +7367,21 @@
     {
       "id": "CS2_221e",
       "name": "Sharp!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack from Spiteful Smith."
     },
     {
       "id": "CS2_146o",
       "name": "Sharpened",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1 Durability."
     },
     {
       "id": "EX1_410",
       "name": "Shield Slam",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -7398,7 +7398,7 @@
     {
       "id": "EX1_405",
       "name": "Shieldbearer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7416,7 +7416,7 @@
     {
       "id": "EX1_332",
       "name": "Silence",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7433,7 +7433,7 @@
     {
       "id": "CS2_151",
       "name": "Silver Hand Knight",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -7451,7 +7451,7 @@
     {
       "id": "EX1_023",
       "name": "Silvermoon Guardian",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -7469,7 +7469,7 @@
     {
       "id": "EX1_309",
       "name": "Siphon Soul",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -7483,7 +7483,7 @@
     {
       "id": "EX1_391",
       "name": "Slam",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7497,7 +7497,7 @@
     {
       "id": "EX1_554t",
       "name": "Snake",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7510,7 +7510,7 @@
     {
       "id": "EX1_554",
       "name": "Snake Trap",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -7527,7 +7527,7 @@
     {
       "id": "EX1_609",
       "name": "Snipe",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7544,7 +7544,7 @@
     {
       "id": "EX1_608",
       "name": "Sorcerer's Apprentice",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7563,7 +7563,7 @@
     {
       "id": "EX1_158",
       "name": "Soul of the Forest",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7577,7 +7577,7 @@
     {
       "id": "EX1_158e",
       "name": "Soul of the Forest",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Deathrattle: Summon a 2/2 Treant.",
       "playerClass": "Druid"
@@ -7585,7 +7585,7 @@
     {
       "id": "NEW1_027",
       "name": "Southsea Captain",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 3,
@@ -7603,7 +7603,7 @@
     {
       "id": "CS2_146",
       "name": "Southsea Deckhand",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -7619,7 +7619,7 @@
     {
       "id": "tt_010a",
       "name": "Spellbender",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "attack": 1,
@@ -7630,7 +7630,7 @@
     {
       "id": "tt_010",
       "name": "Spellbender",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -7647,7 +7647,7 @@
     {
       "id": "EX1_048",
       "name": "Spellbreaker",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -7665,7 +7665,7 @@
     {
       "id": "EX1_tk11",
       "name": "Spirit Wolf",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -7681,7 +7681,7 @@
     {
       "id": "CS2_221",
       "name": "Spiteful Smith",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -7700,7 +7700,7 @@
     {
       "id": "CS2_152",
       "name": "Squire",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -7711,7 +7711,7 @@
     {
       "id": "EX1_tk28",
       "name": "Squirrel",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7723,7 +7723,7 @@
     {
       "id": "NEW1_041",
       "name": "Stampeding Kodo",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 5,
@@ -7741,7 +7741,7 @@
     {
       "id": "EX1_382e",
       "name": "Stand Down!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Attack changed to 1.",
       "playerClass": "Paladin"
@@ -7749,7 +7749,7 @@
     {
       "id": "NEW1_007a",
       "name": "Starfall",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "Deal $2 damage to all enemy minions.",
       "playerClass": "Druid"
@@ -7757,7 +7757,7 @@
     {
       "id": "NEW1_007b",
       "name": "Starfall",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "Deal $5 damage to a minion.",
       "playerClass": "Druid"
@@ -7765,7 +7765,7 @@
     {
       "id": "NEW1_007",
       "name": "Starfall",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Rare",
       "cost": 5,
@@ -7778,7 +7778,7 @@
     {
       "id": "EX1_247",
       "name": "Stormforged Axe",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7794,7 +7794,7 @@
     {
       "id": "EX1_028",
       "name": "Stranglethorn Tiger",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -7813,14 +7813,14 @@
     {
       "id": "EX1_162o",
       "name": "Strength of the Pack",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Dire Wolf Alpha is granting +1 Attack to this minion."
     },
     {
       "id": "EX1_160a",
       "name": "Summon a Panther",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Summon a 3/2 Panther.",
@@ -7829,7 +7829,7 @@
     {
       "id": "EX1_315",
       "name": "Summoning Portal",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7849,7 +7849,7 @@
     {
       "id": "EX1_058",
       "name": "Sunfury Protector",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -7867,7 +7867,7 @@
     {
       "id": "EX1_032",
       "name": "Sunwalker",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Rare",
@@ -7886,7 +7886,7 @@
     {
       "id": "EX1_366",
       "name": "Sword of Justice",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -7902,7 +7902,7 @@
     {
       "id": "EX1_016",
       "name": "Sylvanas Windrunner",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -7920,7 +7920,7 @@
     {
       "id": "EX1_390",
       "name": "Tauren Warrior",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -7939,14 +7939,14 @@
     {
       "id": "EX1_584e",
       "name": "Teachings of the Kirin Tor",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "<b>Spell Damage +1</b>."
     },
     {
       "id": "EX1_046e",
       "name": "Tempered",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack this turn.",
       "mechanics": [
@@ -7956,7 +7956,7 @@
     {
       "id": "EX1_623",
       "name": "Temple Enforcer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 6,
@@ -7974,7 +7974,7 @@
     {
       "id": "EX1_577",
       "name": "The Beast",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -7994,7 +7994,7 @@
     {
       "id": "EX1_002",
       "name": "The Black Knight",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -8012,7 +8012,7 @@
     {
       "id": "EX1_339",
       "name": "Thoughtsteal",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -8026,7 +8026,7 @@
     {
       "id": "EX1_021",
       "name": "Thrallmar Farseer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -8044,7 +8044,7 @@
     {
       "id": "EX1_083",
       "name": "Tinkmaster Overspark",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Legendary",
@@ -8063,7 +8063,7 @@
     {
       "id": "EX1_383",
       "name": "Tirion Fordring",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -8085,7 +8085,7 @@
     {
       "id": "EX1_611e",
       "name": "Trapped",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Will be <b>Frozen</b> again at the start of the next turn.",
       "playerClass": "Hunter"
@@ -8093,7 +8093,7 @@
     {
       "id": "EX1_tk9",
       "name": "Treant",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -8109,7 +8109,7 @@
     {
       "id": "EX1_573t",
       "name": "Treant",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 1,
       "attack": 2,
@@ -8123,7 +8123,7 @@
     {
       "id": "EX1_158t",
       "name": "Treant",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "cost": 1,
@@ -8134,14 +8134,14 @@
     {
       "id": "NEW1_018e",
       "name": "Treasure Crazed",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack."
     },
     {
       "id": "EX1_043",
       "name": "Twilight Drake",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -8160,7 +8160,7 @@
     {
       "id": "EX1_312",
       "name": "Twisting Nether",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Epic",
@@ -8174,7 +8174,7 @@
     {
       "id": "EX1_258",
       "name": "Unbound Elemental",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -8190,7 +8190,7 @@
     {
       "id": "EX1_538",
       "name": "Unleash the Hounds",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -8203,7 +8203,7 @@
     {
       "id": "EX1_409",
       "name": "Upgrade!",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -8217,7 +8217,7 @@
     {
       "id": "EX1_536e",
       "name": "Upgraded",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Durability.",
       "playerClass": "Hunter"
@@ -8225,7 +8225,7 @@
     {
       "id": "EX1_409e",
       "name": "Upgraded",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1 Attack and +1 Durability.",
       "playerClass": "Warrior"
@@ -8233,7 +8233,7 @@
     {
       "id": "EX1_178b",
       "name": "Uproot",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "+5 Attack.",
@@ -8242,7 +8242,7 @@
     {
       "id": "EX1_178be",
       "name": "Uprooted",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+5 Attack.",
       "playerClass": "Druid"
@@ -8250,7 +8250,7 @@
     {
       "id": "EX1_613e",
       "name": "VanCleef's Vengeance",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has increased Attack and Health.",
       "playerClass": "Rogue"
@@ -8258,7 +8258,7 @@
     {
       "id": "EX1_594",
       "name": "Vaporize",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Rare",
@@ -8275,7 +8275,7 @@
     {
       "id": "CS2_227",
       "name": "Venture Co. Mercenary",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -8294,7 +8294,7 @@
     {
       "id": "NEW1_026t",
       "name": "Violet Apprentice",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 0,
       "attack": 1,
@@ -8303,7 +8303,7 @@
     {
       "id": "NEW1_026",
       "name": "Violet Teacher",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 4,
@@ -8317,7 +8317,7 @@
     {
       "id": "EX1_304",
       "name": "Void Terror",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -8336,14 +8336,14 @@
     {
       "id": "EX1_001e",
       "name": "Warded",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack."
     },
     {
       "id": "EX1_531e",
       "name": "Well Fed",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack and Health.",
       "playerClass": "Hunter"
@@ -8372,7 +8372,7 @@
     {
       "id": "EX1_603e",
       "name": "Whipped Into Shape",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack.",
       "playerClass": "Warrior"
@@ -8380,7 +8380,7 @@
     {
       "id": "NEW1_020",
       "name": "Wild Pyromancer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 2,
@@ -8412,7 +8412,7 @@
     {
       "id": "CS2_231",
       "name": "Wisp",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -8426,7 +8426,7 @@
     {
       "id": "EX1_010",
       "name": "Worgen Infiltrator",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -8444,7 +8444,7 @@
     {
       "id": "EX1_317t",
       "name": "Worthless Imp",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -8457,7 +8457,7 @@
     {
       "id": "EX1_154b",
       "name": "Wrath",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Deal $1 damage to a minion. Draw a card.",
@@ -8466,7 +8466,7 @@
     {
       "id": "EX1_154a",
       "name": "Wrath",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "text": "Deal $3 damage to a minion.",
@@ -8475,7 +8475,7 @@
     {
       "id": "EX1_154",
       "name": "Wrath",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -8489,14 +8489,14 @@
     {
       "id": "NEW1_027e",
       "name": "Yarrr!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Southsea Captain is granting +1/+1."
     },
     {
       "id": "CS2_169",
       "name": "Young Dragonhawk",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Horde",
       "rarity": "Common",
@@ -8515,7 +8515,7 @@
     {
       "id": "EX1_004",
       "name": "Young Priestess",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 1,
@@ -8529,7 +8529,7 @@
     {
       "id": "EX1_049",
       "name": "Youthful Brewmaster",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -8547,7 +8547,7 @@
     {
       "id": "EX1_572",
       "name": "Ysera",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -8564,7 +8564,7 @@
     {
       "id": "DREAM_02",
       "name": "Ysera Awakens",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 2,
       "text": "Deal $5 damage to all characters except Ysera.",
@@ -8575,7 +8575,7 @@
     {
       "id": "CRED_15",
       "name": "Andy Brock",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 1,
@@ -8587,7 +8587,7 @@
     {
       "id": "CRED_08",
       "name": "Ben Brode",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 3,
@@ -8599,7 +8599,7 @@
     {
       "id": "CRED_09",
       "name": "Ben Thompson",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -8611,7 +8611,7 @@
     {
       "id": "CRED_03",
       "name": "Bob Fitch",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 3,
@@ -8623,7 +8623,7 @@
     {
       "id": "CRED_13",
       "name": "Brian Schwab",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 10,
@@ -8635,7 +8635,7 @@
     {
       "id": "CRED_06",
       "name": "Derek Sakamoto",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 1,
@@ -8647,7 +8647,7 @@
     {
       "id": "CRED_02",
       "name": "Eric Dodds",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -8659,7 +8659,7 @@
     {
       "id": "CRED_16",
       "name": "Hamilton Chu",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 7,
@@ -8671,7 +8671,7 @@
     {
       "id": "CRED_01",
       "name": "Jason Chayes",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 6,
@@ -8683,7 +8683,7 @@
     {
       "id": "CRED_11",
       "name": "Jay Baxter",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 4,
@@ -8695,7 +8695,7 @@
     {
       "id": "CRED_05",
       "name": "Kyle Harrison",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 3,
@@ -8707,7 +8707,7 @@
     {
       "id": "CRED_10",
       "name": "Michael Schweitzer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 2,
@@ -8719,7 +8719,7 @@
     {
       "id": "CRED_12",
       "name": "Rachelle Davis",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 2,
@@ -8731,7 +8731,7 @@
     {
       "id": "CRED_17",
       "name": "Rob Pardo",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 9,
@@ -8743,7 +8743,7 @@
     {
       "id": "CRED_04",
       "name": "Steven Gabriel",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 1,
@@ -8755,7 +8755,7 @@
     {
       "id": "CRED_14",
       "name": "Yong Woo",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -8767,7 +8767,7 @@
     {
       "id": "CRED_07",
       "name": "Zwick",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 2,
@@ -8883,7 +8883,7 @@
     {
       "id": "FP1_005e",
       "name": "Consume",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats."
     },
@@ -8929,7 +8929,7 @@
     {
       "id": "FP1_028e",
       "name": "Darkness Calls",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats."
     },
@@ -8998,7 +8998,7 @@
     {
       "id": "NAX12_02e",
       "name": "Decimate",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Health changed to 1."
     },
@@ -9058,7 +9058,7 @@
     {
       "id": "NAX12_04e",
       "name": "Enrage",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+6 Attack this turn.",
       "mechanics": [
@@ -9092,7 +9092,7 @@
     {
       "id": "NAX12_03e",
       "name": "Extra Teeth",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack."
     },
@@ -9182,7 +9182,7 @@
     {
       "id": "NAX6_03te",
       "name": "Fungal Growth",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack."
     },
@@ -9380,13 +9380,13 @@
     {
       "id": "NAX15_01He",
       "name": "Interloper!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment"
     },
     {
       "id": "NAX15_01e",
       "name": "Interloper!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment"
     },
     {
@@ -9561,7 +9561,7 @@
     {
       "id": "NAX9_07e",
       "name": "Mark of the Horsemen",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1/+1."
     },
@@ -9633,7 +9633,7 @@
     {
       "id": "NAX11_04e",
       "name": "Mutating Injection",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+4/+4 and <b>Taunt</b>."
     },
@@ -9669,7 +9669,7 @@
     {
       "id": "FP1_030e",
       "name": "Necrotic Aura",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Your spells cost (5) more this turn."
     },
@@ -9721,7 +9721,7 @@
     {
       "id": "FP1_007t",
       "name": "Nerubian",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Rare",
       "cost": 3,
@@ -9819,7 +9819,7 @@
     {
       "id": "NAX13_02e",
       "name": "Polarity",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Attack and Health swapped."
     },
@@ -9834,7 +9834,7 @@
     {
       "id": "FP1_023e",
       "name": "Power of the Ziggurat",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+3 Health.",
       "playerClass": "Priest"
@@ -10028,7 +10028,7 @@
     {
       "id": "NAX15_04a",
       "name": "Slave of Kel'Thuzad",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "MINE!"
     },
@@ -10199,7 +10199,7 @@
     {
       "id": "NAX13_03e",
       "name": "Supercharged",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Health."
     },
@@ -10375,7 +10375,7 @@
     {
       "id": "FP1_020e",
       "name": "Vengeance",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+3/+2.",
       "playerClass": "Paladin"
@@ -10507,7 +10507,7 @@
     {
       "id": "XXX_048",
       "name": "-1 Durability",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10516,7 +10516,7 @@
     {
       "id": "XXX_055",
       "name": "1000 Stats",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Give a Minion +1000/+1000"
@@ -10524,13 +10524,13 @@
     {
       "id": "XXX_055e",
       "name": "1000 Stats Enchant",
-      "image": .png,
+      "image": "",
       "type": "Enchantment"
     },
     {
       "id": "XXX_095",
       "name": "AI Buddy - All Charge!",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 0,
       "attack": 1,
@@ -10540,7 +10540,7 @@
     {
       "id": "XXX_096",
       "name": "AI Buddy - Damage Own Hero 5",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 0,
       "attack": 1,
@@ -10550,7 +10550,7 @@
     {
       "id": "XXX_097",
       "name": "AI Buddy - Destroy Minions",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 0,
       "attack": 1,
@@ -10561,7 +10561,7 @@
     {
       "id": "XXX_098",
       "name": "AI Buddy - No Deck/Hand",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 0,
       "attack": 1,
@@ -10572,7 +10572,7 @@
     {
       "id": "XXX_099",
       "name": "AI Helper Buddy",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 0,
       "attack": 1,
@@ -10584,7 +10584,7 @@
     {
       "id": "XXX_053",
       "name": "Armor",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Give your Hero +100 Armor"
@@ -10592,7 +10592,7 @@
     {
       "id": "XXX_039",
       "name": "Become Hogger",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Become Hogger for Video Recording."
@@ -10600,7 +10600,7 @@
     {
       "id": "XXX_012",
       "name": "Bounce",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10609,7 +10609,7 @@
     {
       "id": "XXX_006",
       "name": "Break Weapon",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10618,7 +10618,7 @@
     {
       "id": "XXX_015",
       "name": "Crash",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10627,7 +10627,7 @@
     {
       "id": "XXX_001",
       "name": "Damage 1",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10639,7 +10639,7 @@
     {
       "id": "XXX_002",
       "name": "Damage 5",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10651,7 +10651,7 @@
     {
       "id": "XXX_024",
       "name": "Damage Reflector",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 0,
@@ -10662,7 +10662,7 @@
     {
       "id": "XXX_020",
       "name": "Damage all but 1",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10674,7 +10674,7 @@
     {
       "id": "XXX_005",
       "name": "Destroy",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10683,7 +10683,7 @@
     {
       "id": "XXX_023",
       "name": "Destroy All Heroes",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10692,7 +10692,7 @@
     {
       "id": "XXX_018",
       "name": "Destroy All Minions",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10701,7 +10701,7 @@
     {
       "id": "XXX_047",
       "name": "Destroy Deck",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10710,7 +10710,7 @@
     {
       "id": "XXX_041",
       "name": "Destroy Hero Power",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10719,7 +10719,7 @@
     {
       "id": "XXX_057",
       "name": "Destroy Secrets",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Choose a hero. Destroy all <b>Secrets</b> controlled by that hero."
@@ -10727,7 +10727,7 @@
     {
       "id": "XXX_050",
       "name": "Destroy a Mana Crystal",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10736,7 +10736,7 @@
     {
       "id": "XXX_049",
       "name": "Destroy all Mana",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10745,7 +10745,7 @@
     {
       "id": "XXX_013",
       "name": "Discard",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10754,7 +10754,7 @@
     {
       "id": "XXX_025",
       "name": "Do Nothing",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10763,7 +10763,7 @@
     {
       "id": "XXX_017",
       "name": "Draw 3 Cards",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10772,7 +10772,7 @@
     {
       "id": "XXX_009e",
       "name": "Empty Enchant",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "rarity": "Common",
       "text": "This enchantment does nothing."
@@ -10780,7 +10780,7 @@
     {
       "id": "XXX_026",
       "name": "Enable Emotes",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10789,7 +10789,7 @@
     {
       "id": "XXX_007",
       "name": "Enable for Attack",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10798,7 +10798,7 @@
     {
       "id": "XXX_009",
       "name": "Enchant",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10807,7 +10807,7 @@
     {
       "id": "XXX_046",
       "name": "Force AI to Use Hero Power",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10816,7 +10816,7 @@
     {
       "id": "XXX_022",
       "name": "Free Cards",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10825,14 +10825,14 @@
     {
       "id": "XXX_022e",
       "name": "Free Cards",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Your cards cost (0) for the rest of the game."
     },
     {
       "id": "XXX_008",
       "name": "Freeze",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10844,7 +10844,7 @@
     {
       "id": "XXX_052",
       "name": "Grant Mega-Windfury",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10853,7 +10853,7 @@
     {
       "id": "XXX_044",
       "name": "Hand Swapper Minion",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 0,
@@ -10864,7 +10864,7 @@
     {
       "id": "XXX_042",
       "name": "Hand to Deck",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10873,7 +10873,7 @@
     {
       "id": "XXX_040",
       "name": "Hogger",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "health": 10,
       "playerClass": "Warrior"
@@ -10881,7 +10881,7 @@
     {
       "id": "XXX_051",
       "name": "Make Immune",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10890,7 +10890,7 @@
     {
       "id": "XXX_014",
       "name": "Mill 10",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10899,7 +10899,7 @@
     {
       "id": "XXX_043",
       "name": "Mill 30",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10908,7 +10908,7 @@
     {
       "id": "XXX_019",
       "name": "Molasses",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "text": "You can take as long as you want on your turn."
@@ -10916,7 +10916,7 @@
     {
       "id": "XXX_029",
       "name": "Opponent Concede",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Force your opponent to concede."
@@ -10924,7 +10924,7 @@
     {
       "id": "XXX_030",
       "name": "Opponent Disconnect",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10933,7 +10933,7 @@
     {
       "id": "XXX_003",
       "name": "Restore 1",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10942,7 +10942,7 @@
     {
       "id": "XXX_004",
       "name": "Restore 5",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10951,7 +10951,7 @@
     {
       "id": "XXX_021",
       "name": "Restore All Health",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10960,21 +10960,21 @@
     {
       "id": "XXX_028",
       "name": "Reveal Hand",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common"
     },
     {
       "id": "XXX_027",
       "name": "Server Crash",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "Crash the Server.  DON'T BE A FOOL."
     },
     {
       "id": "XXX_010",
       "name": "Silence - debug",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -10983,7 +10983,7 @@
     {
       "id": "XXX_056",
       "name": "Silence Destroy",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Silence and Destroy ALL Minions."
@@ -10991,7 +10991,7 @@
     {
       "id": "XXX_016",
       "name": "Snake Ball",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Summon five 1/1 snakes."
@@ -10999,7 +10999,7 @@
     {
       "id": "XXX_045",
       "name": "Steal Card",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -11008,7 +11008,7 @@
     {
       "id": "XXX_011",
       "name": "Summon a random Secret",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 0,
@@ -11017,7 +11017,7 @@
     {
       "id": "XXX_054",
       "name": "Weapon Buff",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 0,
       "text": "Give your Weapon +100/+100"
@@ -11025,7 +11025,7 @@
     {
       "id": "XXX_054e",
       "name": "Weapon Buff Enchant",
-     "image": .png,
+     "image": "",
       "type": "Enchantment"
     }
   ],
@@ -11137,7 +11137,7 @@
     {
       "id": "GVG_086e",
       "name": "Armor Plated",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack.",
       "playerClass": "Warrior"
@@ -11152,7 +11152,7 @@
     {
       "id": "PART_001",
       "name": "Armor Plating",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 1,
       "text": "Give a minion +1 Health.",
@@ -11161,7 +11161,7 @@
     {
       "id": "GVG_030a",
       "name": "Attack Mode",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "+1 Attack.",
       "playerClass": "Druid"
@@ -11169,7 +11169,7 @@
     {
       "id": "GVG_030ae",
       "name": "Attack Mode",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1 Attack.",
       "playerClass": "Druid"
@@ -11256,7 +11256,7 @@
     {
       "id": "GVG_100e",
       "name": "Brow Furrow",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats.",
       "playerClass": "Warlock"
@@ -11314,7 +11314,7 @@
     {
       "id": "PART_004e",
       "name": "Cloaked",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Stealthed until your next turn."
     },
@@ -11483,7 +11483,7 @@
     {
       "id": "GVG_041a",
       "name": "Dark Wispers",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "text": "+5/+5 and <b>Taunt</b>.",
       "playerClass": "Druid"
@@ -11525,7 +11525,7 @@
     {
       "id": "GVG_019e",
       "name": "Demonheart",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+5/+5.",
       "playerClass": "Warlock"
@@ -11660,7 +11660,7 @@
     {
       "id": "GVG_023a",
       "name": "Extra Sharp",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+1 Attack."
     },
@@ -11902,7 +11902,7 @@
     {
       "id": "GVG_043",
       "name": "Glaivezooka",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "rarity": "Common",
       "cost": 2,
@@ -12009,7 +12009,7 @@
     {
       "id": "GVG_021e",
       "name": "Grasp of Mal'Ganis",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Mal'Ganis is granting +2/+2.",
       "playerClass": "Warlock"
@@ -12032,14 +12032,14 @@
     {
       "id": "GVG_104a",
       "name": "HERE, TAKE BUFF.",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2/+2."
     },
     {
       "id": "GVG_120",
       "name": "Hemet Nesingwary",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Legendary",
       "cost": 5,
@@ -12145,7 +12145,7 @@
     {
       "id": "GVG_027e",
       "name": "Ironed Out",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats.",
       "playerClass": "Rogue"
@@ -12183,7 +12183,7 @@
     {
       "id": "GVG_106e",
       "name": "Junked Up",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased stats."
     },
@@ -12413,7 +12413,7 @@
     {
       "id": "GVG_067a",
       "name": "Metabolized Magic",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack.",
       "mechanics": [
@@ -12423,7 +12423,7 @@
     {
       "id": "GVG_068a",
       "name": "Metabolized Magic",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack.",
       "mechanics": [
@@ -12433,7 +12433,7 @@
     {
       "id": "GVG_048e",
       "name": "Metal Teeth",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack.",
       "playerClass": "Hunter"
@@ -12482,7 +12482,7 @@
     {
       "id": "GVG_049e",
       "name": "Might of Zul'Farrak",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Multiplying Attack.",
       "playerClass": "Hunter"
@@ -12650,7 +12650,7 @@
     {
       "id": "GVG_123e",
       "name": "Overclocked",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Spell Damage +2.",
       "playerClass": "Mage",
@@ -12697,14 +12697,14 @@
     {
       "id": "GVG_076a",
       "name": "Pistons",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack."
     },
     {
       "id": "GVG_036e",
       "name": "Powered",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2/+2.",
       "playerClass": "Shaman"
@@ -12744,7 +12744,7 @@
     {
       "id": "GVG_101e",
       "name": "Pure",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Stats.",
       "playerClass": "Paladin"
@@ -12800,7 +12800,7 @@
     {
       "id": "GVG_069a",
       "name": "Repairs!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+4 Health.",
       "playerClass": "Priest"
@@ -12808,7 +12808,7 @@
     {
       "id": "GVG_063a",
       "name": "Retribution",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack"
     },
@@ -12900,7 +12900,7 @@
     {
       "id": "GVG_055e",
       "name": "Screwy Jank",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2/+2.",
       "playerClass": "Warrior"
@@ -12924,7 +12924,7 @@
     {
       "id": "GVG_057a",
       "name": "Seal of Light",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2 Attack this turn.",
       "mechanics": [
@@ -12968,7 +12968,7 @@
     {
       "id": "GVG_014a",
       "name": "Shadowed",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Health was swapped.",
       "playerClass": "Priest"
@@ -13027,7 +13027,7 @@
     {
       "id": "GVG_011a",
       "name": "Shrink Ray",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "-2 Attack this turn.",
       "mechanics": [
@@ -13187,7 +13187,7 @@
     {
       "id": "PART_006a",
       "name": "Switched",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Attack and Health have been swapped by Reversing Switch."
     },
@@ -13236,7 +13236,7 @@
     {
       "id": "GVG_046e",
       "name": "The King",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Attack.",
       "playerClass": "Hunter"
@@ -13269,21 +13269,21 @@
     {
       "id": "GVG_022a",
       "name": "Tinker's Sharpsword Oil",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+3 Attack."
     },
     {
       "id": "GVG_022b",
       "name": "Tinker's Sharpsword Oil",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+3 Attack."
     },
     {
       "id": "GVG_102",
       "name": "Tinkertown Technician",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 3,
@@ -13412,7 +13412,7 @@
     {
       "id": "GVG_010b",
       "name": "Velen's Chosen",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2/+4 and <b>Spell Damage +1</b>."
     },
@@ -13504,7 +13504,7 @@
     {
       "id": "GVG_060e",
       "name": "Well Equipped",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "+2/+2.",
       "playerClass": "Paladin"
@@ -13519,7 +13519,7 @@
     {
       "id": "PART_007",
       "name": "Whirling Blades",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "cost": 1,
       "text": "Give a minion +1 Attack.",
@@ -13549,14 +13549,14 @@
     {
       "id": "TU4c_006e",
       "name": "Bananas",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "This minion has +1/+1. <i>(+1 Attack/+1 Health)</i>"
     },
     {
       "id": "TU4c_006",
       "name": "Bananas",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -13566,7 +13566,7 @@
     {
       "id": "TU4c_003",
       "name": "Barrel",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -13581,7 +13581,7 @@
     {
       "id": "TU4c_002",
       "name": "Barrel Toss",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -13591,7 +13591,7 @@
     {
       "id": "TU4f_005",
       "name": "Brewmaster",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -13601,7 +13601,7 @@
     {
       "id": "TU4d_002",
       "name": "Crazed Hunter",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -13611,7 +13611,7 @@
     {
       "id": "TU4f_007",
       "name": "Crazy Monkey",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -13625,7 +13625,7 @@
     {
       "id": "TU4e_007",
       "name": "Dual Warglaives",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "rarity": "Common",
       "cost": 6,
@@ -13635,7 +13635,7 @@
     {
       "id": "TU4e_005",
       "name": "Flame Burst",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -13644,7 +13644,7 @@
     {
       "id": "TU4e_002t",
       "name": "Flame of Azzinoth",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -13654,7 +13654,7 @@
     {
       "id": "TU4e_002",
       "name": "Flames of Azzinoth",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "cost": 2,
       "text": "<b>Hero Power</b>\nSummon two 2/1 minions."
@@ -13662,7 +13662,7 @@
     {
       "id": "TU4a_003",
       "name": "Gnoll",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -13681,7 +13681,7 @@
     {
       "id": "TU4c_005",
       "name": "Hidden Gnome",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Common",
@@ -13693,7 +13693,7 @@
     {
       "id": "TU4a_001",
       "name": "Hogger",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "rarity": "Common",
       "health": 10
@@ -13701,7 +13701,7 @@
     {
       "id": "TU4a_004",
       "name": "Hogger SMASH!",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -13710,7 +13710,7 @@
     {
       "id": "TU4e_001",
       "name": "Illidan Stormrage",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "health": 30,
       "playerClass": "Hunter"
@@ -13718,7 +13718,7 @@
     {
       "id": "TU4a_006",
       "name": "Jaina Proudmoore",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "rarity": "Common",
       "health": 27,
@@ -13727,7 +13727,7 @@
     {
       "id": "TU4c_001",
       "name": "King Mukla",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "rarity": "Common",
       "health": 26
@@ -13735,14 +13735,14 @@
     {
       "id": "TU4f_004o",
       "name": "Legacy of the Emperor",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Has +2/+2. <i>(+2 Attack/+2 Health)</i>"
     },
     {
       "id": "TU4f_004",
       "name": "Legacy of the Emperor",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -13751,14 +13751,14 @@
     {
       "id": "TU4f_001",
       "name": "Lorewalker Cho",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "health": 25
     },
     {
       "id": "TU4a_005",
       "name": "Massive Gnoll",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 4,
@@ -13768,7 +13768,7 @@
     {
       "id": "TU4c_008e",
       "name": "Might of Mukla",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "King Mukla has +8 Attack this turn.",
       "mechanics": [
@@ -13778,7 +13778,7 @@
     {
       "id": "TU4b_001",
       "name": "Millhouse Manastorm",
-      "image": .png,
+      "image": "",
       "type": "Hero",
       "rarity": "Common",
       "health": 20,
@@ -13787,7 +13787,7 @@
     {
       "id": "TU4c_007",
       "name": "Mukla's Big Brother",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 6,
@@ -13798,7 +13798,7 @@
     {
       "id": "TU4e_003",
       "name": "Naga Myrmidon",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -13809,7 +13809,7 @@
     {
       "id": "TU4f_002",
       "name": "Pandaren Scout",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 1,
@@ -13829,7 +13829,7 @@
     {
       "id": "TU4f_003",
       "name": "Shado-Pan Monk",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Common",
       "cost": 2,
@@ -13839,7 +13839,7 @@
     {
       "id": "TU4d_003",
       "name": "Shotgun Blast",
-      "image": .png,
+      "image": "",
       "type": "Hero Power",
       "rarity": "Common",
       "cost": 2,
@@ -13849,7 +13849,7 @@
     {
       "id": "TU4c_004",
       "name": "Stomp",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -13859,7 +13859,7 @@
     {
       "id": "TU4f_006",
       "name": "Transcendence",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 1,
@@ -13868,14 +13868,14 @@
     {
       "id": "TU4f_006o",
       "name": "Transcendence",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Until you kill Cho's minions, he can't be attacked."
     },
     {
       "id": "TU4e_004",
       "name": "Warglaive of Azzinoth",
-      "image": .png,
+      "image": "",
       "type": "Weapon",
       "rarity": "Common",
       "cost": 2,
@@ -13885,7 +13885,7 @@
     {
       "id": "TU4c_008",
       "name": "Will of Mukla",
-      "image": .png,
+      "image": "",
       "type": "Spell",
       "rarity": "Common",
       "cost": 3,
@@ -13896,7 +13896,7 @@
     {
       "id": "Mekka4t",
       "name": "Chicken",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "cost": 0,
       "attack": 1,
@@ -13926,14 +13926,14 @@
     {
       "id": "Mekka3e",
       "name": "Emboldened!",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Increased Stats."
     },
     {
       "id": "Mekka3",
       "name": "Emboldener 3000",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -13947,7 +13947,7 @@
     {
       "id": "EX1_112",
       "name": "Gelbin Mekkatorque",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Legendary",
@@ -13967,7 +13967,7 @@
     {
       "id": "Mekka1",
       "name": "Homing Chicken",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -13999,7 +13999,7 @@
     {
       "id": "Mekka4",
       "name": "Poultryizer",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -14021,7 +14021,7 @@
     {
       "id": "Mekka2",
       "name": "Repair Bot",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Alliance",
       "rarity": "Common",
@@ -14043,7 +14043,7 @@
     {
       "id": "Mekka4e",
       "name": "Transformed",
-      "image": .png,
+      "image": "",
       "type": "Enchantment",
       "text": "Has been transformed into a chicken!",
       "mechanics": [
@@ -14055,7 +14055,7 @@
     {
       "id": "NEW1_016",
       "name": "Captain's Parrot",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "rarity": "Epic",
       "cost": 2,
@@ -14075,7 +14075,7 @@
     {
       "id": "EX1_062",
       "name": "Old Murk-Eye",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Legendary",
@@ -14100,7 +14100,7 @@
     {
       "id": "PlaceholderCard",
       "name": "Placeholder Card",
-      "image": .png,
+      "image": "",
       "type": "Minion",
       "faction": "Neutral",
       "rarity": "Epic",
