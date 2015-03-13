@@ -6328,7 +6328,7 @@
             "faction": "Neutral",
             "text": "+4 Attack.",
             "playerClass": "Druid",
-            "img": "cards/mark_of_nature.png"
+            "img": "cards/mark_of_nature_4.png"
         },
         {
             "id": "EX1_155ae",
@@ -8783,14 +8783,14 @@
             "name": "Anub'Rekhan",
             "type": "Hero",
             "health": 45,
-            "img": "cards/anubrekhan.png"
+            "img": "cards/anubrekhan_45.png"
         },
         {
             "id": "NAX1_01",
             "name": "Anub'Rekhan",
             "type": "Hero",
             "health": 30,
-            "img": "cards/anubrekhan.png"
+            "img": "cards/anubrekhan_30.png"
         },
         {
             "id": "FP1_026",
@@ -8835,14 +8835,14 @@
             "name": "Baron Rivendare",
             "type": "Hero",
             "health": 7,
-            "img": "cards/baron_rivendare.png"
+            "img": "cards/baron_rivendare_7.png"
         },
         {
             "id": "NAX9_01H",
             "name": "Baron Rivendare",
             "type": "Hero",
             "health": 14,
-            "img": "cards/baron_rivendare.png"
+            "img": "cards/baron_rivendare_14.png"
         },
         {
             "id": "FP1_031",
@@ -9114,7 +9114,7 @@
             "attack": 4,
             "health": 7,
             "elite": true,
-            "img": "cards/feugen.png"
+            "img": "cards/feugen_no_text.png"
         },
         {
             "id": "FP1_015",
@@ -9156,7 +9156,7 @@
             "mechanics": [
                 "Freeze"
             ],
-            "img": "cards/frost_blast.png"
+            "img": "cards/frost_blast_3.png"
         },
         {
             "id": "NAX14_02",
@@ -9191,56 +9191,56 @@
             "name": "Gluth",
             "type": "Hero",
             "health": 45,
-            "img": "cards/gluth.png"
+            "img": "cards/gluth_45.png"
         },
         {
             "id": "NAX12_01",
             "name": "Gluth",
             "type": "Hero",
             "health": 30,
-            "img": "cards/gluth.png"
+            "img": "cards/gluth_30.png"
         },
         {
             "id": "NAX8_01",
             "name": "Gothik the Harvester",
             "type": "Hero",
             "health": 30,
-            "img": "cards/gothik_the_harvester.png"
+            "img": "cards/gothik_the_harvester_30.png"
         },
         {
             "id": "NAX8_01H",
             "name": "Gothik the Harvester",
             "type": "Hero",
             "health": 45,
-            "img": "cards/gothik_the_harvester.png"
+            "img": "cards/gothik_the_harvester_45.png"
         },
         {
             "id": "NAX2_01H",
             "name": "Grand Widow Faerlina",
             "type": "Hero",
             "health": 45,
-            "img": "cards/grand_widow_faerlina.png"
+            "img": "cards/grand_widow_faerlina_45.png"
         },
         {
             "id": "NAX2_01",
             "name": "Grand Widow Faerlina",
             "type": "Hero",
             "health": 30,
-            "img": "cards/grand_widow_faerlina.png"
+            "img": "cards/grand_widow_faerlina_30.png"
         },
         {
             "id": "NAX11_01H",
             "name": "Grobbulus",
             "type": "Hero",
             "health": 45,
-            "img": "cards/grobbulus.png"
+            "img": "cards/grobbulus_45.png"
         },
         {
             "id": "NAX11_01",
             "name": "Grobbulus",
             "type": "Hero",
             "health": 30,
-            "img": "cards/grobbulus.png"
+            "img": "cards/grobbulus_30.png"
         },
         {
             "id": "NAX15_03t",
@@ -9253,7 +9253,7 @@
             "mechanics": [
                 "Taunt"
             ],
-            "img": "cards/guardian_of_icecrown.png"
+            "img": "cards/guardian_of_icecrown_5.png"
         },
         {
             "id": "NAX15_03n",
@@ -9326,7 +9326,7 @@
             "type": "Hero",
             "health": 30,
             "playerClass": "Warlock",
-            "img": "cards/heigan_the_unclean.png"
+            "img": "cards/heigan_the_unclean_30.png"
         },
         {
             "id": "NAX5_01H",
@@ -9334,7 +9334,7 @@
             "type": "Hero",
             "health": 45,
             "playerClass": "Warlock",
-            "img": "cards/heigan_the_unclean.png"
+            "img": "cards/heigan_the_unclean_45.png"
         },
         {
             "id": "NAX10_02",
@@ -9368,14 +9368,14 @@
             "name": "Instructor Razuvious",
             "type": "Hero",
             "health": 55,
-            "img": "cards/instructor_razuvious.png"
+            "img": "cards/instructor_razuvious_55.png"
         },
         {
             "id": "NAX7_01",
             "name": "Instructor Razuvious",
             "type": "Hero",
             "health": 40,
-            "img": "cards/instructor_razuvious.png"
+            "img": "cards/instructor_razuvious_40.png"
         },
         {
             "id": "NAX15_01He",
@@ -9397,7 +9397,7 @@
             "attack": 1,
             "durability": 5,
             "text": "Whenever a minion with <b>Deathrattle</b> dies, gain +2 Attack.",
-            "img": "cards/jaws.png"
+            "img": "cards/jaws_1.png"
         },
         {
             "id": "NAX12_03H",
@@ -9414,14 +9414,14 @@
             "name": "Kel'Thuzad",
             "type": "Hero",
             "health": 45,
-            "img": "cards/kelthuzad.png"
+            "img": "cards/kelthuzad_45.png"
         },
         {
             "id": "NAX15_01",
             "name": "Kel'Thuzad",
             "type": "Hero",
             "health": 30,
-            "img": "cards/kelthuzad.png"
+            "img": "cards/kelthuzad_30.png"
         },
         {
             "id": "FP1_013",
@@ -9460,21 +9460,21 @@
             "health": 7,
             "text": "Your hero is <b>Immune</b>.",
             "elite": true,
-            "img": "cards/lady_blaumeux.png"
+            "img": "cards/lady_blaumeux_1.png"
         },
         {
             "id": "NAX6_01H",
             "name": "Loatheb",
             "type": "Hero",
             "health": 99,
-            "img": "cards/loatheb.png"
+            "img": "cards/loatheb_99.png"
         },
         {
             "id": "NAX6_01",
             "name": "Loatheb",
             "type": "Hero",
             "health": 75,
-            "img": "cards/loatheb.png"
+            "img": "cards/loatheb_75.png"
         },
         {
             "id": "FP1_030",
@@ -9528,7 +9528,7 @@
             "name": "Maexxna",
             "type": "Hero",
             "health": 45,
-            "img": "cards/maexxna.png"
+            "img": "cards/maexxna_45.png"
         },
         {
             "id": "FP1_010",
@@ -9556,7 +9556,7 @@
             "name": "Maexxna",
             "type": "Hero",
             "health": 30,
-            "img": "cards/maexxna.png"
+            "img": "cards/maexxna_30.png"
         },
         {
             "id": "NAX9_07e",
@@ -9716,7 +9716,7 @@
             "cost": 2,
             "attack": 3,
             "health": 1,
-            "img": "cards/nerubian.png"
+            "img": "cards/nerubian_3.png"
         },
         {
             "id": "FP1_007t",
@@ -9753,7 +9753,7 @@
             "type": "Hero",
             "health": 30,
             "playerClass": "Mage",
-            "img": "cards/noth_the_plaguebringer.png"
+            "img": "cards/noth_the_plaguebringer_30.png"
         },
         {
             "id": "NAX4_01H",
@@ -9761,21 +9761,21 @@
             "type": "Hero",
             "health": 45,
             "playerClass": "Mage",
-            "img": "cards/noth_the_plaguebringer.png"
+            "img": "cards/noth_the_plaguebringer_45.png"
         },
         {
             "id": "NAX10_01",
             "name": "Patchwerk",
             "type": "Hero",
             "health": 30,
-            "img": "cards/patchwerk.png"
+            "img": "cards/patchwerk_30.png"
         },
         {
             "id": "NAX10_01H",
             "name": "Patchwerk",
             "type": "Hero",
             "health": 45,
-            "img": "cards/patchwerk.png"
+            "img": "cards/patchwerk_45.png"
         },
         {
             "id": "NAX4_05",
@@ -9886,7 +9886,7 @@
             "type": "Hero Power",
             "cost": 0,
             "text": "<b>Passive Hero Power</b>\nWhenever an enemy dies, raise a 5/5 Skeleton.",
-            "img": "cards/raise_dead.png"
+            "img": "cards/raise_dead_5.png"
         },
         {
             "id": "FP1_025",
@@ -9928,14 +9928,14 @@
             "name": "Sapphiron",
             "type": "Hero",
             "health": 45,
-            "img": "cards/sapphiron.png"
+            "img": "cards/sapphiron_45.png"
         },
         {
             "id": "NAX14_01",
             "name": "Sapphiron",
             "type": "Hero",
             "health": 30,
-            "img": "cards/sapphiron.png"
+            "img": "cards/sapphiron_30.png"
         },
         {
             "id": "FP1_005",
@@ -9965,7 +9965,7 @@
             "health": 7,
             "text": "Your hero is <b>Immune</b>.",
             "elite": true,
-            "img": "cards/sir_zeliek.png"
+            "img": "cards/sir_zeliek_1.png"
         },
         {
             "id": "NAX9_04H",
@@ -10023,7 +10023,7 @@
             "type": "Hero Power",
             "cost": 2,
             "text": "<b>Hero Power</b>\nSummon a 4/4 Nerubian.",
-            "img": "cards/skitter.png"
+            "img": "cards/skitter_4.png"
         },
         {
             "id": "NAX15_04a",
@@ -10208,14 +10208,14 @@
             "name": "Thaddius",
             "type": "Hero",
             "health": 45,
-            "img": "cards/thaddius.png"
+            "img": "cards/thaddius_45.png"
         },
         {
             "id": "NAX13_01",
             "name": "Thaddius",
             "type": "Hero",
             "health": 30,
-            "img": "cards/thaddius.png"
+            "img": "cards/thaddius_30.png"
         },
         {
             "id": "FP1_014t",
@@ -10237,7 +10237,7 @@
             "health": 7,
             "text": "Your hero is <b>Immune</b>.",
             "elite": true,
-            "img": "cards/thane_korthazz.png"
+            "img": "cards/thane_korthazz_2.png"
         },
         {
             "id": "NAX9_03",
@@ -10274,7 +10274,7 @@
             "type": "Hero Power",
             "cost": 1,
             "text": "<b>Hero Power</b>\nDeal 4 damage.",
-            "img": "cards/unbalancing_strike.png"
+            "img": "cards/unbalancing_strike_4.png"
         },
         {
             "id": "NAX7_02",
@@ -10481,7 +10481,7 @@
             "mechanics": [
                 "Aura"
             ],
-            "img": "cards/worshipper.png"
+            "img": "cards/worshipper_3.png"
         },
         {
             "id": "FP1_001",
@@ -11486,7 +11486,7 @@
             "type": "Spell",
             "text": "+5/+5 and <b>Taunt</b>.",
             "playerClass": "Druid",
-            "img": "cards/dark_wispers.png"
+            "img": "cards/dark_wispers_5.png"
         },
         {
             "id": "GVG_041c",
@@ -11494,7 +11494,7 @@
             "type": "Enchantment",
             "text": "+5/+5 and <b>Taunt</b>.",
             "playerClass": "Druid",
-            "img": "cards/dark_wispers.png"
+            "img": "cards/dark_wispers_5.png"
         },
         {
             "id": "GVG_015",
@@ -12088,7 +12088,7 @@
             "health": 1,
             "race": "Demon",
             "playerClass": "Warlock",
-            "img": "cards/imp.png"
+            "img": "cards/imp_2.png"
         },
         {
             "id": "GVG_045",
