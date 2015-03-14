@@ -21,7 +21,7 @@ class Scraper
 		image_urls = []
 
 		@pages.each do |page|
-			result = page.scrapify
+			result = page.scrapify(:images: :png)
 			image_urls.push(result[:images])
 		end
 
