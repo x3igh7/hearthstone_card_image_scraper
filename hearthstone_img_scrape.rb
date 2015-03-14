@@ -1,10 +1,13 @@
 require 'scrapifier'
+require 'nokogiri'
+require 'open-uri'
 
 class Scraper
 	attr_accessor :pages, :images
 
 	def initialize
 		@pages = []
+		@links = []
 		@images = []
 	end
 
@@ -17,12 +20,24 @@ class Scraper
 		end
 	end
 
+	def get_page_links
+		@pages.each do |page|
+			Nokogiri::HTML(open(page).read).css("visual-image-cell a").map do |link|
+		    if (href = link.attr("href"))
+		      @links.push(href)
+		    end
+	  	end
+	  end
+	end
+
 	def scrape_img_urls
 		image_urls = []
 
-		@pages.each do |page|
-			result = page.scrapify(:images: :png)
-			image_urls.push(result[:images])
+		@links.each do |link|
+			link = "http://www.hearthpwn.com" + link
+			result = link.scrapify(:images: [:png, :gif])
+			card_name = result[:title].slice(" - Heartstone Cards").downcase.tr(" ", "_")
+			image_urls.push(card_name => result[:images])
 		end
 
 		@images.push(image_urls.flatten)
@@ -31,9 +46,11 @@ class Scraper
 	def download_imgs
 		count = @images[0].length
 
-		@images[0].each_with_index do |image, i|
-			puts "Downloading image #{i + 1} of #{count}"
-			File.open(File.basename(image), 'wb') { |f| f.write(open(image).read) }
+		@images[0].each_with_index do |card, i|
+			card.each_pair do |name, image|
+				puts "Downloading image #{i + 1} of #{count}"
+				File.open(File.basename(card_name), 'wb') { |f| f.write(open(image).read) }
+			end
 		end
 	end
 
