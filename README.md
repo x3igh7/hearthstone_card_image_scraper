@@ -10,6 +10,7 @@ Image naming convention is card name in all lowercase, no special characters, un
 
 You need the following gems installed
 
- bundle install scrapifier
- bundle install nokogiri
- bundle install open-uri
+ gem install scrapifier
+ gem install nokogiri
+ gem install open-uri
+ gem install tesseract-ocr
