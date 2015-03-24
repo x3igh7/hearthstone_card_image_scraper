@@ -11,6 +11,14 @@ class Scraper
 		@pages = []
 		@links = []
 		@images = []
+
+		# need to handle the special conditions for these naxx heroes,
+		# where there is a card as well as multiple hero tokens
+		@maexxna_count = 1
+		@loatheb_count = 1
+		@baron_rivendare_count = 1
+		@thaddius_count = 1
+		@kelthuzad_count = 1
 	end
 
 	def get_pages
@@ -38,14 +46,6 @@ class Scraper
 		image_urls = []
 		last_card_name = "no name"
 		card_name = ""
-
-		# need to handle the special conditions for these naxx heroes,
-		# where there is a card as well as multiple hero tokens
-		maexxna_count = 1
-		loatheb_count = 1
-		baron_rivendare_count = 1
-		thaddius_count = 1
-		kelthuzad_count = 1
 
 		@links.each do |link|
 			link = "http://www.hearthpwn.com" + link
@@ -79,6 +79,7 @@ class Scraper
 	end
 
 	def download_json
+		puts "Downloading json file..."
 		json = "http://hearthstonejson.com/json/AllSets.json"
 		basename = File.basename(json)
 		File.open(File.basename(json), 'wb') { |f| f.write(open(json).read) }
@@ -89,23 +90,23 @@ class Scraper
 
 	def derive_card_name(card_name, last_card_name)
 		card_name.slice!(" - Hearthstone Cards")
-		card_name = card_name.strip.downcase.tr(" ", "_").gsub(/[!@%&"'.,-:]/,'')
+		card_name = card_name.strip.downcase.gsub(/[^0-9A-Za-z]/,' ').tr(" ", "_")
 
 		if(card_name.tr("_", "") == "maexxna")
-			card_name = "maexxna_#{maexxna_count}"
-			maexxna_count += 1
+			card_name = "maexxna_#{@maexxna_count}"
+			@maexxna_count += 1
 		elsif(card_name.tr("_", "") == "loatheb")
-			card_name = "loatheb_#{loatheb_count}"
-			loatheb_count += 1
+			card_name = "loatheb_#{@loatheb_count}"
+			@loatheb_count += 1
 		elsif(card_name.tr("_", "") == "baronrivendare")
-			card_name = "baron_rivendare_#{baron_rivendare_count}"
-			baron_rivendare_count += 1
+			card_name = "baron_rivendare_#{@baron_rivendare_count}"
+			@baron_rivendare_count += 1
 		elsif(card_name.tr("_", "") == "thaddius")
-			card_name = "thaddius_#{thaddius_count}"
-			thaddius_count += 1
+			card_name = "thaddius_#{@thaddius_count}"
+			@thaddius_count += 1
 		elsif(card_name.tr("_", "") == "kelthuzad")
-			card_name = "kelthuzad_#{kelthuzad_count}"
-			kelthuzad_count += 1
+			card_name = "kelthuzad_#{@kelthuzad_count}"
+			@kelthuzad_count += 1
 		elsif(card_name.tr("_", "") == last_card_name.tr("0-9_", ""))
 			if(last_card_name.tr("A-Za-z_", "") == "")
 				card_name = card_name + "_2"
@@ -132,6 +133,8 @@ class ImageScrape
 		scraper.get_page_links
 		scraper.scrape_img_urls
 		scraper.download_imgs
+		scraper.download_json
+		puts "Complete!"
 	end
 
 end
