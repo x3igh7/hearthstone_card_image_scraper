@@ -36,7 +36,7 @@ class Scraper
 	def scrape_img_urls
 		puts "Grabbing image paths..."
 		image_urls = []
-		last_card_name = ""
+		last_card_name = "no name"
 		card_name = ""
 
 		# need to handle the special conditions for these naxx heroes,
@@ -50,7 +50,7 @@ class Scraper
 		@links.each do |link|
 			link = "http://www.hearthpwn.com" + link
 			result = link.scrapify(images: [:png])
-			card_name = derive_card_name(result[:title])
+			card_name = derive_card_name(result[:title], last_card_name)
 			last_card_name = card_name
 			puts "#{card_name} => #{result[:images][0]}"
 			image_urls.push(card_name => result[:images][0])
@@ -78,9 +78,16 @@ class Scraper
 		end
 	end
 
+	def download_json
+		json = "http://hearthstonejson.com/json/AllSets.json"
+		basename = File.basename(json)
+		File.open(File.basename(json), 'wb') { |f| f.write(open(json).read) }
+		File.rename(basename, "download.json")
+	end
+
 	protected
 
-	def derive_card_name(card_name)
+	def derive_card_name(card_name, last_card_name)
 		card_name.slice!(" - Hearthstone Cards")
 		card_name = card_name.strip.downcase.tr(" ", "_").gsub(/[!@%&"'.,-:]/,'')
 
