@@ -41,7 +41,7 @@ class CardReader:
         img = self.full_img_path(img_path)
         card_text = ""
 
-        commands.getoutput(commands.getoutput('convert {0} -crop 196x75+45+265 -scale 200% -threshold 2% text.tiff'.format(pipes.quote(img))))
+        commands.getoutput(commands.getoutput('convert {0} -crop 196x75+45+265 -scale 200% -threshold 2% text.tiff'.format(img)))
         # Invoking tesseract from python to extract characters
         commands.getoutput('tesseract text.tiff card_text')
         # Reading the output generated in card_text.txt
@@ -144,7 +144,7 @@ class CardReader:
             previous_name = name[0]
 
         results = {
-            "img_names": img_names,
+            "img_names": img_names_new,
             "duplicate_cards": duplicate_cards
         }
 
@@ -187,9 +187,12 @@ class CardData:
 
             for (i, card) in enumerate(self.data):
                 card_name =  re.sub('[^A-Za-z]+', '', self.data[i]["name"])
+                if img_name == card_name.lower():
+                    print 'true'
 
                 if card_name.lower() == img_name:
                     self.data[i]["img"] = img
+                    break
 
         for dup in img_names["duplicate_cards"]:
             print "Processing {0}...".format(dup)
@@ -203,14 +206,15 @@ class CardData:
                 for (i, card) in enumerate(self.data):
                     card_name =  re.sub('[^A-Za-z]+', '', self.data[i]["name"])
 
-                    if self.similar(card_name, img_power_name) > 0.9 or self.similar(card_name, img_hero_name) > 0.9:
+                    if self.similar(card_name, img_power_name) >= 0.9 or self.similar(card_name, img_hero_name) > 0.9:
 
                         if "health" in self.data[i]:
                             img_hero_health = self.reader.get_hero_card_health(dup)
                             card_health = str(self.data[i]["health"])
 
-                            if card_name.lower() == dup and self.similar(card_health, img_hero_health) > 0.9:
+                            if card_name.lower() == dup and self.similar(card_health, img_hero_health) >= 0.9:
                                 self.data[i]["img"] = dup
+                                break
 
                         else:
                             #strip any styling tags
@@ -218,22 +222,23 @@ class CardData:
                             power_text = re.sub('<[^<]+?>', '', self.data[i]["text"]).lower()
                             power_text = re.sub('[^A-Za-z0-9]+', '', power_text).lower()
 
-                            if card_name.lower() == dup and self.similar(power_text, img_power_txt) > 0.9:
+                            if card_name.lower() == dup and self.similar(power_text, img_power_txt) >= 0.9:
                                 self.data[i]["img"] = dup
+                                break
 
             else:
+                img_text = self.reader.get_card_text(dup).lower()
                 for (i, card) in enumerate(self.data):
                     # check card text to match
                     if "text" in self.data[i]:
-                        pprint(self.data[i])
                         #strip any styling tags
                         card_text = re.sub('<[^<]+?>', '', self.data[i]["text"])
                         card_text = re.sub('[^A-Za-z0-9]+', '', card_text).lower()
-                        img_text = self.reader.get_card_text(dup).lower()
 
-                        if self.similar(card_text, img_text) > 0.9:
+                        if self.similar(card_text, img_text) >= 0.9:
                             self.data[i]["img"] = dup
-
+                            break
+        pprint(self.data)
         self.write_to_json()
 
     def write_to_json(self):
