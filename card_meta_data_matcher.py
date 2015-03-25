@@ -187,8 +187,6 @@ class CardData:
 
             for (i, card) in enumerate(self.data):
                 card_name =  re.sub('[^A-Za-z]+', '', self.data[i]["name"])
-                if img_name == card_name.lower():
-                    print 'true'
 
                 if card_name.lower() == img_name:
                     self.data[i]["img"] = img
@@ -200,19 +198,20 @@ class CardData:
 
             if card_name == "":
                 # check for hero or power
-                img_power_name = self.reader.get_power_card_name(dup)
-                img_hero_name = self.reader.get_hero_card_name(dup)
+                img_power_name = self.reader.get_power_card_name(dup).lower()
+                img_hero_name = self.reader.get_hero_card_name(dup).lower()
 
                 for (i, card) in enumerate(self.data):
-                    card_name =  re.sub('[^A-Za-z]+', '', self.data[i]["name"])
-
-                    if self.similar(card_name, img_power_name) >= 0.9 or self.similar(card_name, img_hero_name) > 0.9:
+                    card_name =  re.sub('[^A-Za-z]+', '', self.data[i]["name"]).lower()
+                    if self.similar(card_name, img_power_name) >= 0.9 or self.similar(card_name, img_hero_name) >= 0.6:
 
                         if "health" in self.data[i]:
                             img_hero_health = self.reader.get_hero_card_health(dup)
                             card_health = str(self.data[i]["health"])
 
-                            if card_name.lower() == dup and self.similar(card_health, img_hero_health) >= 0.9:
+                            print img_hero_health
+
+                            if self.similar(img_hero_health, card_health) >= 0.5:
                                 self.data[i]["img"] = dup
                                 break
 
@@ -238,8 +237,8 @@ class CardData:
                         if self.similar(card_text, img_text) >= 0.9:
                             self.data[i]["img"] = dup
                             break
-        pprint(self.data)
         self.write_to_json()
+        self.clean_files()
 
     def write_to_json(self):
         json_file = open('master.json', 'w')
@@ -249,6 +248,21 @@ class CardData:
 
     def similar(self, a, b):
         return SequenceMatcher(None, a, b).ratio()
+
+    def clean_files(self):
+        os.remove('card_name.txt')
+        os.remove('name.tiff')
+        os.remove('text.tiff')
+        os.remove('card_text.txt')
+        os.remove('hero_name.tiff')
+        os.remove('hero_name.txt')
+        os.remove('power_name.tiff')
+        os.remove('power_card_name.txt')
+        os.remove('hero_health.tiff')
+        os.remove('hero_card_health.txt')
+        os.remove('power_text.tiff')
+        os.remove('power_card_text.txt')
+
 
 
 data = CardData('download.json')
